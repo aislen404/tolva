@@ -1,0 +1,3376 @@
+{
+    "trivia": [
+    [
+        " ¿A qué conjugación pertenece el verbo sentir?", 
+        "Tercera"
+    ], 
+    [
+        " ¿A qué grupo de islas pertenecen Haití y Puerto Rico?", 
+        "AntillasMayores"
+    ], 
+    [
+        " ¿Cómo se llama el proceso por el cuál las plantas obtienen alimento?", 
+        "Fotosíntesis"
+    ], 
+    [
+        " ¿Cómo se llama el triángulo cuyos lados son iguales?", 
+        "Equilátero"
+    ], 
+    [
+        " ¿Cómo se llama la energía contenida en el núcleo de los átomos?", 
+        "Energía nuclear"
+    ], 
+    [
+        " ¿Cómo se llama la estación espacial rusa?", 
+        "Mir"
+    ], 
+    [
+        " ¿cuál de los ríos más largos del mundo tiene su flujo de agua de sur a norte?", 
+        "El Nilo"
+    ], 
+    [
+        " ¿Cuál es el animal más pequeño del mundo?", 
+        "Colibrí"
+    ], 
+    [
+        " ¿Cuál es el mayor océano del mundo?", 
+        "El Pacífico"
+    ], 
+    [
+        " ¿Cuál es el mineral más valioso de la Tierra?", 
+        "El oro"
+    ], 
+    [
+        " ¿Cuál es el nombre completo de Goya?", 
+        "Francisco de Goya y Lucientes"
+    ], 
+    [
+        " ¿Cuál es el nombre del presidente de los Estados Unidos?", 
+        "Donald Trumo"
+    ], 
+    [
+        " ¿Cuál es el número que si lo pones al revés vale menos?", 
+        "9"
+    ], 
+    [
+        " ¿Cuál es el país más grande del mundo?", 
+        "Rusia"
+    ], 
+    [
+        " ¿Cuál es el río más largo de Europa?", 
+        "El Volga"
+    ], 
+    [
+        " ¿Cuál es el segundo lago de agua dulce más grande de la Tierra?", 
+        "Lago Victoria"
+    ], 
+    [
+        " ¿Cual es la 1ª persona del condicional simple del verbo cantar?", 
+        "Cantaría"
+    ], 
+    [
+        " ¿Cuál es la capital de Bulgaria?", 
+        "Sofía"
+    ], 
+    [
+        " ¿Cuál es la capital de Croacia?", 
+        "Zagreb"
+    ], 
+    [
+        " ¿Cuál es la capital de España?", 
+        "Madrid"
+    ], 
+    [
+        " ¿Cual es la Capital de Francia?", 
+        "París"
+    ], 
+    [
+        " ¿Cuál es la estrella más brillante vista desde la tierra?", 
+        "Sirio"
+    ], 
+    [
+        " ¿Cuál es la forma no personal por la que nombramos a los verbos?", 
+        "Infinitivo"
+    ], 
+    [
+        " ¿Cuál es la fórmula del teorema de Pitágoras?", 
+        "La hipotenusa al cuadrado es igual a la suma de los cuadrados de los catetos"
+    ], 
+    [
+        " ¿Cuál es la raíz cuadrada de 36?", 
+        "6"
+    ], 
+    [
+        " ¿Cuál es la raíz cuadrada de 49?", 
+        "7"
+    ], 
+    [
+        " ¿Cuál es la raíz cuadrada de 81?", 
+        "9"
+    ], 
+    [
+        " ¿Cuál es la tercera persona del singular del pretérito anterior de indicativo del verbo saltar?", 
+        "Él hubo saltado"
+    ], 
+    [
+        " ¿Cuál es la única célula del cuerpo que no se regenera?", 
+        "La neurona"
+    ], 
+    [
+        " ¿Cuál fue el invento más importante de la Edad de los Metales?", 
+        "La rueda"
+    ], 
+    [
+        " ¿Cuál fue el primer metal que empleó el hombre?", 
+        "El cobre"
+    ], 
+    [
+        " ¿Cuáles son los seis continentes?", 
+        "África, América, Antártida, Asia, Europa y Oceanía"
+    ], 
+    [
+        " ¿Cuándo empezó la Primera Guerra Mundial?", 
+        "1914"
+    ], 
+    [
+        " ¿Cuántas centenas son necesarias para formar un millar?", 
+        "10"
+    ], 
+    [
+        " ¿Cuántas diagonales tiene un pentágono?", 
+        "5"
+    ], 
+    [
+        " ¿Cuántas lenguas oficiales existen en España?", 
+        "4, Castellano, catalán, euskera y gallego"
+    ], 
+    [
+        " ¿Cuánto es 103 mas 20198?", 
+        "20301"
+    ], 
+    [
+        " ¿Cuánto es 5*2?", 
+        "10"
+    ], 
+    [
+        " ¿Cuánto es la mitad de 1502?", 
+        "751"
+    ], 
+    [
+        " ¿Cuánto mide el lado de un cuadrado de 1m de perímetro?", 
+        "0,25 metros"
+    ], 
+    [
+        " ¿Cuánto vale el número pi?", 
+        "3,1416"
+    ], 
+    [
+        " ¿Cuántos años duró la guerra de los 100 años?", 
+        "116 años"
+    ], 
+    [
+        " ¿Cuántos dientes tiene una persona adulta?", 
+        "32"
+    ], 
+    [
+        " ¿De qué color se visten normalmente las novias en China?", 
+        "De rojo"
+    ], 
+    [
+        " ¿De qué está recubierto el cuerpo de los peces?", 
+        "De escamas"
+    ], 
+    [
+        " ¿De qué país es Odegaard?", 
+        "Noruega"
+    ], 
+    [
+        " ¿Dónde está la montaña más alta de España?", 
+        "En Canarias, en la isla de Tenerife , El Teide"
+    ], 
+    [
+        " ¿Dónde se encuentra la capa de ozono?", 
+        "En la atmósfera"
+    ], 
+    [
+        " ¿En qué año descubrió Cristóbal Colón América?", 
+        "1492"
+    ], 
+    [
+        " ¿En qué año murió Napoleón?", 
+        "En 1821"
+    ], 
+    [
+        " ¿En qué año se aprobó la actual Constitución española?", 
+        "1978"
+    ], 
+    [
+        " ¿En qué año se descubrió América?", 
+        "1492"
+    ], 
+    [
+        " ¿En qué cabo español situaron los romanos el fin del mundo?", 
+        "Finisterre"
+    ], 
+    [
+        " ¿En qué continente está Ecuador?", 
+        "América"
+    ], 
+    [
+        " ¿En qué isla está situado el Teide?", 
+        "Tenerife"
+    ], 
+    [
+        " ¿En qué lugar escribió Cervantes la mayor parte de El Quijote?", 
+        "En la cárcel"
+    ], 
+    [
+        " ¿En qué país cayó la primera bomba atómica?", 
+        "Japón"
+    ], 
+    [
+        " ¿Hay diptongo en la palabra topacio?", 
+        "Sí"
+    ], 
+    [
+        " ¿Lleva tilde esquí?", 
+        "Sí, al ser una palabra aguada"
+    ], 
+    [
+        " ¿Para qué sirve la regla de tres?", 
+        "Calcular proporcionalidad"
+    ], 
+    [
+        " ¿Por qué bostezamos?", 
+        "Porque necesitamos airear y enfriar nuestro cerebro cuando tiene fatiga por alguna causa como sueño o cansancio físico"
+    ], 
+    [
+        " ¿Qué armada fue vencida por la inglesa, y se decía que nunca lo iba a ser?", 
+        "La Armada Invencible española"
+    ], 
+    [
+        " ¿Qué cuatro provincias forman la Comunidad de Cataluña?", 
+        "Gerona, Barcelona, Tarragona y Lérida"
+    ], 
+    [
+        " ¿Qué deshace un diptongo?", 
+        "La tilde"
+    ], 
+    [
+        " ¿Qué día celebran los cristianos la festividad de la Epifanía de Jesús?", 
+        "6 de enero"
+    ], 
+    [
+        " ¿Qué es el número pi?", 
+        "Un número irracional que viene dado por el cociente entre la longitud de la circunferencia y su diámetro"
+    ], 
+    [
+        " ¿Qué es más grande un átomo o una célula?", 
+        "Un átomo"
+    ], 
+    [
+        " ¿Qué es más pequeño, un átomo o una molécula?", 
+        "Un átomo"
+    ], 
+    [
+        " ¿Qué es mayor _ o 0,48?", 
+        "_"
+    ], 
+    [
+        " ¿Qué es un animal carnívoro?", 
+        "Come carne"
+    ], 
+    [
+        " ¿Qué es un cabo?", 
+        "Es un saliente de tierra que penetra en el mar"
+    ], 
+    [
+        " ¿Qué es un ovíparo?", 
+        "Es un animal que nace de un huevo"
+    ], 
+    [
+        " ¿Qué es un romance?", 
+        "Son poemas que cuentan una historia"
+    ], 
+    [
+        " ¿Qué es un verbo?", 
+        "Una palabra que indica una acción"
+    ], 
+    [
+        " ¿qué instrumento óptico permite ver los astros de cerca?", 
+        "El telescopio"
+    ], 
+    [
+        " ¿Qué objeto indica la dirección del viento?", 
+        "La veleta"
+    ], 
+    [
+        " ¿Qué país ha ganado el mundial de fútbol en 2014?", 
+        "Alemania"
+    ], 
+    [
+        " ¿Qué país tiene forma de bota?", 
+        "Italia"
+    ], 
+    [
+        " ¿Qué parte del calamar se utilizaba para escribir?", 
+        "La pluma"
+    ], 
+    [
+        " ¿Qué rama de la Biología estudia los animales?", 
+        "La zoología"
+    ], 
+    [
+        " ¿Qué significan las siglas DGT?", 
+        "Dirección general de tráfico"
+    ], 
+    [
+        " ¿Qué son ángulos complementarios?", 
+        "Aquellos que suman 90º"
+    ], 
+    [
+        " ¿Qué tipo de animal es la ballena?", 
+        "Un mamífero"
+    ], 
+    [
+        " ¿Qué tipo de edificio es el Vicente Calderón?", 
+        "Un estadio de fútbol"
+    ], 
+    [
+        " ¿Qué tipo de vertebrados hay?", 
+        "Mamíferos, aves, peces, anfibios y reptiles"
+    ], 
+    [
+        " ¿Quién descubrió América?", 
+        "Cristóbal Colón"
+    ], 
+    [
+        " ¿Quién descubrió la penicilina?", 
+        "Alexandre Flemming"
+    ], 
+    [
+        " ¿Quién descubrió Perú?", 
+        "Francisco Pizarro"
+    ], 
+    [
+        " ¿Quién era el general de los nazis en la Segunda Guerra Mundial?", 
+        "Adolf Hitler"
+    ], 
+    [
+        " ¿Quién era el marido de la reina Isabel de Castilla?", 
+        "Fernando de Aragón"
+    ], 
+    [
+        " ¿Quién escribió “El Quijote”?", 
+        "Miguel de Cervantes"
+    ], 
+    [
+        " ¿Quién escribió La Odisea?", 
+        "Homero"
+    ], 
+    [
+        " El cociente de un número es 20 y su divisor 40, ¿cuál es el número?", 
+        "800"
+    ], 
+    [
+        " Él echó un papel en la papelera, ¿ese echó es con h o sin h?", 
+        "Sin H"
+    ], 
+    [
+        " Nepal se llamaba Pakistán Oriental  ¿Verdadero o falso?", 
+        "VERDADERO"
+    ], 
+    [
+        " Si 50 es el 100%, ¿cuánto es el 90%?", 
+        "45"
+    ], 
+    [
+        "¿ Los amantes de Teruel…", 
+        "Tonta ella y tonto él"
+    ], 
+    [
+        "¿ Qué animal es la mascota de Jazmín en Aladdin? ", 
+        "Tigre"
+    ], 
+    [
+        "¿A cual área del arte se dedican los premios grammy?", 
+        "A la música"
+    ], 
+    [
+        "¿A cual ciudad se le conoce como  la ciudad de los rascacielos?", 
+        "New York"
+    ], 
+    [
+        "¿A cual país pertenece el río Sena?", 
+        "Paris"
+    ], 
+    [
+        "¿A cual profesión se le otorga el premio pulizzer?", 
+        "Periodismo"
+    ], 
+    [
+        "¿A dónde pertenece la colección de relatos folklóricos llamada Mabinogion? ", 
+        "Gales"
+    ], 
+    [
+        "¿A la selección de rugby de qué país se los conoce como Los Pumas?", 
+        "Argentina"
+    ], 
+    [
+        "¿A las personas de cual país le llaman cariocas?", 
+        "Brasil"
+    ], 
+    [
+        "¿A partir de qué nivel de inteligencia se puede considerar que alguien es un genio?", 
+        "Electroencefalograma"
+    ], 
+    [
+        "¿A qué archipiélago pertenece la isla de Gran Canaria? ", 
+        "Canario"
+    ], 
+    [
+        "¿A qué barrio porteño pertenece el club de fútbol San Lorenzo?", 
+        "Boedo"
+    ], 
+    [
+        "¿A qué ciudad costera europea se la conoce como la Perla del Adriático? ", 
+        "Dubrovnik"
+    ], 
+    [
+        "¿A qué criatura atribuían los pilotos ingleses las fallas de sus aviones durante la Segunda Guerra Mundial ? ", 
+        "A los gremlins"
+    ], 
+    [
+        "¿A qué dirigente latinoamericano mandó callar Juan Carlos de Borbón? ", 
+        "Hugo Chávez"
+    ], 
+    [
+        "¿A qué edad ganó su primer mundial de Fórmula 1 el automovilista español Fernando Alonso?", 
+        "21"
+    ], 
+    [
+        "¿A que es relativo lo lúdico?", 
+        "Al juego"
+    ], 
+    [
+        "¿A que es relativo Onírico?", 
+        "Al sueño"
+    ], 
+    [
+        "¿A qué ex-jugador del Valencia cf se le conocía como ” El Matador”?", 
+        "Mario Alberto Kempes"
+    ], 
+    [
+        "¿A qué familia pertenece Dobby,el elfo doméstico en la historia de Harry Potter? ", 
+        "Malfoy"
+    ], 
+    [
+        "¿A qué generación pertenece García Lorca? ", 
+        "Del 27"
+    ], 
+    [
+        "¿A qué género pertenece la novela “La historia del ojo” de George Bataille? ", 
+        "Erótico"
+    ], 
+    [
+        "¿A qué hace referencia ‘La milla verde’? ", 
+        "Al corblackor de la muerte"
+    ], 
+    [
+        "¿A qué jugador de fútbol le apodan ‘El Apache’?", 
+        "Carlos Tévez"
+    ], 
+    [
+        "¿A qué localidad manchega irías a por ‘berenjenas’? ", 
+        "a Almagro"
+    ], 
+    [
+        "¿A qué músico argentino lo apodaban ” El Flaco” ? ", 
+        "Luis Alberto Spinetta"
+    ], 
+    [
+        "¿A qué obra pertenece este fragmento: ‘No es verdad, ángel de amor, que en esta apartada orilla…’? ", 
+        "Don Juan Tenorio"
+    ], 
+    [
+        "¿A qué país pertenece el código internacional PA?", 
+        "Panamá"
+    ], 
+    [
+        "¿A qué país pertenece la bandera?", 
+        "Laos"
+    ], 
+    [
+        "¿A qué país pertenece la Isla de Pascua? ", 
+        "Chile"
+    ], 
+    [
+        "¿A qué país pertenece la isla de Tasmania?", 
+        "Australia"
+    ], 
+    [
+        "¿A que país pertenece la isla de Vieques?", 
+        "Puerto Rico"
+    ], 
+    [
+        "¿A qué país pertenece la isla Mujeres? ", 
+        "México"
+    ], 
+    [
+        "¿A qué país tienes que ir para visitar el turístico pueblo costero de Sidi Bou Said?", 
+        "Túnez"
+    ], 
+    [
+        "¿A qué película de Disney pertenece la canción “Un mundo ideal”? ", 
+        "Aladdín"
+    ], 
+    [
+        "¿A qué pintor pertenece la obra ‘Serpientes de agua’? ", 
+        "Gustave Klimt"
+    ], 
+    [
+        "¿A qué presidente ceso el rey Alfonso XIII tras las reacciones que sucedieron a la Semana Trágica? ", 
+        "Antonio Maura"
+    ], 
+    [
+        "¿A qué reino ha pertenecido históricamente Cataluña? ", 
+        "Aragón"
+    ], 
+    [
+        "¿A qué se dedica el personaje led Mosby de  ‘Como conocí a vuestra madre? ", 
+        "Arquitecto "
+    ], 
+    [
+        "¿A que se le llama hematíes?", 
+        "A los glóbulos rojos"
+    ], 
+    [
+        "¿A que se le llama leucocitos?", 
+        "A los glóbulos blancos"
+    ], 
+    [
+        "¿A qué tienes miedo si sufres de aracnofobia?", 
+        "Cruzado"
+    ], 
+    [
+        "¿A qué tipo de billa se juega con más bolas?", 
+        "Snooker"
+    ], 
+    [
+        "¿A quién está dedicada la torre más alta de la Sagrada Familia de Gaudí, aún pendiente de construcción?", 
+        "Jesucristo"
+    ], 
+    [
+        "¿A quién se considera el Rey del Pop? ", 
+        "Michael Jackson"
+    ], 
+    [
+        "¿A quién se le atribuye tradicionalmente? ", 
+        "Goya"
+    ], 
+    [
+        "¿A quien se le llama pontífice?", 
+        "Al papa"
+    ], 
+    [
+        "¿Alblackedor de qué ciudad se encontraba la ‘Ruta del Bakalao’? ", 
+        "Valencia "
+    ], 
+    [
+        "¿Antera, filamento y pistilo son elementos de la ?", 
+        "La flor"
+    ], 
+    [
+        "¿Arroz con leche me quiero casar con una señorita de… ", 
+        "San Nicolás"
+    ], 
+    [
+        "¿Arroz con leche me quiero…", 
+        "Casar"
+    ], 
+    [
+        "¿Asueto es sinónimo de?", 
+        "Descanso, vacaciones"
+    ], 
+    [
+        "¿Cómo apodaban a Alfblacko Di Stéfano?", 
+        "La saeta rubia "
+    ], 
+    [
+        "¿Cómo apodaban a Emilio Butragueño?", 
+        "El buitre"
+    ], 
+    [
+        "¿Como debería estar una persona para que le fuera practicada una autopsia?  ", 
+        "Muerta"
+    ], 
+    [
+        "¿Cómo despertó el principe a la Bella Durmiente? ", 
+        "Besándola"
+    ], 
+    [
+        "¿Como dice la ley del Talion?", 
+        "ojo por ojo y diente por diente"
+    ], 
+    [
+        "¿Cómo era conocido también el faraón Akenatón, por adorar a un solo Dios? ", 
+        "El hereje"
+    ], 
+    [
+        "¿Cómo era la relación de Juana I La Loca con su marido, Felipe I? ", 
+        "Juana sentía unos celos patológicos "
+    ], 
+    [
+        "¿Como le llaman a los textos de autores desconocidos?", 
+        "Anónimos"
+    ], 
+    [
+        "¿Cómo llamaban a Dios los testigos de Jehová? ", 
+        "Jehová"
+    ], 
+    [
+        "¿Cómo llamamos a la inflamación de la piel?", 
+        "Marihuana"
+    ], 
+    [
+        "¿Cómo llamamos a una lesión térmica o química de los tejidos?", 
+        "Energía Cinética"
+    ], 
+    [
+        "¿Cómo llaman los dentistas a ‘matar un nervio’?", 
+        "Dermatitis "
+    ], 
+    [
+        "¿Cómo murió Jacques de Molay, último gran maestre templario? ", 
+        "En la hoguera"
+    ], 
+    [
+        "¿Cómo se conoce el ingrediente psicoactivo de la marihuana? ", 
+        "THC"
+    ], 
+    [
+        "¿Cómo se conoce el virus del SIDA ? ", 
+        "VIH"
+    ], 
+    [
+        "¿Cómo se conoce comúnmente al compuesto químico NaCI? ", 
+        "Sal"
+    ], 
+    [
+        "¿Cómo se denomina el juramento que realizan los médicos?", 
+        "Un lipido"
+    ], 
+    [
+        "¿Cómo se denomina el resultado de la multiplicación?", 
+        "Producto"
+    ], 
+    [
+        "¿Cómo se denomina el sulfato de calcio,cuando se usa para escribir? ", 
+        "Tiza"
+    ], 
+    [
+        "¿Cómo se denomina la ciencia que estudia la naturaleza,las leyes y distribución de fenómenos meteorológicos? ", 
+        "Meteorología"
+    ], 
+    [
+        "¿Como se le llama a una colección de periódicos?", 
+        "Hemeroteca"
+    ], 
+    [
+        "¿Cómo se llama a la gente que no posee magia en la saga de Harry Potter? ", 
+        "Muggles"
+    ], 
+    [
+        "¿Cómo se llama a la sensibilidad dolorosa de los sonidos? ", 
+        "Hiperacusia"
+    ], 
+    [
+        "¿Cómo se llama a los electrones que se encuentran en la última capa del átomo? ", 
+        "Electrones de valencia"
+    ], 
+    [
+        "¿Cómo se llama el actor protagonista de ” Solo en casa”? ", 
+        "Macaulay Culkin"
+    ], 
+    [
+        "¿Cómo se llama el arte japones de la papiroflexia? ", 
+        "Origami"
+    ], 
+    [
+        "¿Cómo se llama el estadio del FCBarcelona?", 
+        "Camp Nou"
+    ], 
+    [
+        "¿Cómo se llama el estadio del Universidad de Las Palmas?", 
+        "Maspalomas"
+    ], 
+    [
+        "¿Cómo se llama el estado vital en que la persona actúa conforme a estímulos e intereses  ajenos, creyendo que le son propios ? ", 
+        "Alienación"
+    ], 
+    [
+        "¿Cómo se llama el ex-jugador del FC Barcelona apellidado Stoichkov?", 
+        "Hristo "
+    ], 
+    [
+        "¿Como se llama el himno nacional de Francia?", 
+        "La marsellesa"
+    ], 
+    [
+        "¿Cómo se llama el incremento en el volumen,fluidez o frecuencia de las deposiciones? ", 
+        "Diarrea"
+    ], 
+    [
+        "¿Cómo se llama el líquido que expulsan los recién nacidos en lugar de las heces durante los primeros días? ", 
+        "Meconio"
+    ], 
+    [
+        "¿Como se llama el lugar rodeado de tres cuerdas donde pelean los boxeadores?", 
+        "Ring"
+    ], 
+    [
+        "¿Cómo se llama el marido de la Cuqui en ” La que se avecina”?", 
+        "Amador Rivas "
+    ], 
+    [
+        "¿Cómo se llama el movimiento que realiza la Tierra alblackedor del Sol? ", 
+        "Traslación"
+    ], 
+    [
+        "¿Cómo se llama el musical que estrenó en 2013 el grupo Hombres G? ", 
+        "Marta tiene un Marcapasos "
+    ], 
+    [
+        "¿Cómo se llama el nivel más alto de la marea? ", 
+        "Pleamar"
+    ], 
+    [
+        "¿Cómo se llama el pájaro símbolo de los Juegos del Hambre? ", 
+        "Sinsajo"
+    ], 
+    [
+        "¿Cómo se llama el pájaro símbolo de los Juegos del Hambre? ", 
+        "Sinsajo"
+    ], 
+    [
+        "¿Cómo se llama el payaso de ‘Los Simpson’? ", 
+        "Krusty"
+    ], 
+    [
+        "¿Cómo se llama el perro de Obélix? ", 
+        "Ideafix"
+    ], 
+    [
+        "¿Cómo se llama el personaje de ‘ Hellraiser’ que tiene clavos en la cara ? ", 
+        "Pinhead"
+    ], 
+    [
+        "¿Cómo se llama el personaje que interpreta Mario Casas en la serie “El Barco”? ", 
+        "Ulises "
+    ], 
+    [
+        "¿Cómo se llama el primer hijo de Goku de Dragon Ball? ", 
+        "Gohan"
+    ], 
+    [
+        "¿Cómo se llama el primer sueco que jugó en el FC Barcelona?", 
+        "Henrik Larsson"
+    ], 
+    [
+        "¿Como se llama el procedimiento de subir la bandera?", 
+        "Enhestar o izar"
+    ], 
+    [
+        "¿Como se llama el procedimiento quirúrgico para el hombre no tener hijos?", 
+        "Vasectomía"
+    ], 
+    [
+        "¿Cómo se llama el protagonista de “El código Da Vinci” de Dan Brown? ", 
+        "Robert Langdom"
+    ], 
+    [
+        "¿Cómo se llama el protagonista de la saga Indiana Jones? ", 
+        "Harrison Ford"
+    ], 
+    [
+        "¿Cómo se llama el registro gráfico de la activa eléctrica del cerebro?", 
+        "Murciélagos "
+    ], 
+    [
+        "¿Cómo se llama el robot alcohólico de la serie ‘Futurama’? ", 
+        "Bender"
+    ], 
+    [
+        "¿Cómo se llama el sistema operativo con el que trabajan los teléfonos HTC,LG,Samsung? ", 
+        "Android"
+    ], 
+    [
+        "¿Como se llama el sobrino de Popeye?", 
+        "Cocoliso"
+    ], 
+    [
+        "¿Cómo se llama el trastorno a#1FC868ntario donde la pérdida de apetito es causada por un miedo morboso a la obesidad? ", 
+        "Anorexia"
+    ], 
+    [
+        "¿Cómo se llama la actriz que protagoniza ¡Carly? ", 
+        "Miranda Cosgrove"
+    ], 
+    [
+        "¿Cómo se llama la actual presidenta de Costa Rica? ", 
+        "Laura Chinchilla"
+    ], 
+    [
+        "¿Cómo se llama la arteria principal del cuerpo humano?", 
+        "Corazón"
+    ], 
+    [
+        "¿Cómo se llama la bebé de Los Simpsons? ", 
+        "Maggie"
+    ], 
+    [
+        "¿Cómo se llama la cantera del FC Barcelona?", 
+        "La Masía"
+    ], 
+    [
+        "¿Cómo se llama la capital del antiguo imperio azteca? ", 
+        "Tenochtitlan"
+    ], 
+    [
+        "¿Cómo se llama la casilla del centinela? ", 
+        "Garita"
+    ], 
+    [
+        "¿Cómo se llama la cresta que hace el labio debajo de la nariz? ", 
+        "Surco nasolabial"
+    ], 
+    [
+        "¿Cómo se llama la enfermedad por la que una persona cree infundadamente que padece alguna enfermedad grave?", 
+        "Carótida"
+    ], 
+    [
+        "¿Cómo se llama la liga española de balonmano?", 
+        "Asobal"
+    ], 
+    [
+        "¿Cómo se llama la línea imaginaria que va de polo a polo en la superficie terrestre?", 
+        "meridiano"
+    ], 
+    [
+        "¿Cómo se llama la página web más famosa del mundo en la que se puede visualizar videos de todo tipo? ", 
+        "YouTube"
+    ], 
+    [
+        "¿Cómo se llama la parte de la estructura de una cúpula que la sostiene? ", 
+        "Tambor"
+    ], 
+    [
+        "¿Cómo se llama la princesa de Disney conocida como “La Sirenita”? ", 
+        "Ariel "
+    ], 
+    [
+        "¿Cómo se llama la rama de las matemáticas en que los números son representados por letras y símbolos? ", 
+        "Álgebra"
+    ], 
+    [
+        "¿Cómo se llama la restauradora del Ecce Homo de Borja? ", 
+        "Cecilia Giménez Sueco"
+    ], 
+    [
+        "¿Cómo se llama la serie de dibujos animados en la que sale un gato cósmico del siglo XXI? ", 
+        "Doraemon"
+    ], 
+    [
+        "¿Cómo se llama la sustancia que se utiliza en la Iglesia para hacer mucho humo? ", 
+        "Incienso"
+    ], 
+    [
+        "¿Cómo se llama la técnica consistente en descender la temperatura del cuerpo humano por debajo de -190ºC? ", 
+        "Criogenización"
+    ], 
+    [
+        "¿Cómo se llama la torcedura de una articulación en el cuerpo?", 
+        "Intestinal"
+    ], 
+    [
+        "¿Cómo se llama la zona de hierba rasa donde está ubivado el hoyo en golf?", 
+        "Green"
+    ], 
+    [
+        "¿Cómo se llamaba el hermano de Napoleón Bonaparte ? ", 
+        "Jose Bonaparte "
+    ], 
+    [
+        "¿Cómo se llamaba el hijo bastardo de Carlos V ? ", 
+        "Juan de Austria"
+    ], 
+    [
+        "¿Cómo se llamaba el personaje que interpretaba Al Pacino en “Scarface”? ", 
+        "Tony Montana"
+    ], 
+    [
+        "¿Cómo se llamaba el personaje que interpretaba John Travolta en “Grease”?  ", 
+        "Danny Zuko"
+    ], 
+    [
+        "¿Cómo se llamaba el prisionero que fue liberado por Pilato en lugar de Jesús? ", 
+        "Barrabás"
+    ], 
+    [
+        "¿Como se llamaba la protagonista femenina de la serie de televisión", 
+        "Mad Men"
+    ], 
+    [
+        "¿Como se llaman dos intimas amigas de la serie de televisión “Gossip Girl” que siempre discuten y se traicionan? ", 
+        "Serena y Blair"
+    ], 
+    [
+        "¿Cómo se llaman las pinzas especiales que se usan en obstetricia para sujetar la cabeza del bebé y hacer tracción sobre ella en los partos difíciles ?", 
+        "Endodoncia"
+    ], 
+    [
+        "¿Cómo se llamó el álbum en directo que publicaron Joan Manuel Serrat y Joaquín Sabina, el primero en conjunto? ", 
+        "Dos pájaros de un tiro"
+    ], 
+    [
+        "¿Cómo se mide la fuerza del viento en el mar? ", 
+        "Nudos"
+    ], 
+    [
+        "¿Cómo tomarías la sustancia alucinógena natural llamada ayahuasca?  ", 
+        "Ingerida"
+    ], 
+    [
+        "¿Con cuántos países limita Argentina?", 
+        "Cinco"
+    ], 
+    [
+        "¿Con cuántos países limita la República Argentina? ", 
+        "5"
+    ], 
+    [
+        "¿Con qué abren las ostras las nutrias de mar? ", 
+        "Con una piedra"
+    ], 
+    [
+        "¿Con qué apodo fue conocido el velocista Carl Lewis?", 
+        "El hijo del viento"
+    ], 
+    [
+        "¿Con qué deporte relacionarías a Juan Antonio Flecha?", 
+        "Ciclismo"
+    ], 
+    [
+        "¿Con qué emperador estuvo casada Cleopatra? ", 
+        "Todas son correctas"
+    ], 
+    [
+        "¿Con qué escritor del Siglo de Oro estuvo enfrentado Luis de Góngora? ", 
+        "Quevedo"
+    ], 
+    [
+        "¿Con que esta relacionada la cartografía?", 
+        "Mapas"
+    ], 
+    [
+        "¿Con que filme el director Alfonso Cuarón ganó un premio Oscar 2014? ", 
+        "Gravity "
+    ], 
+    [
+        "¿Con qué grupo comenzó a tener éxito Eric Clapton? ", 
+        "The Yardbirds"
+    ], 
+    [
+        "¿Con qué hecho histórico relacionarías al “hombre del tanque” o “rebelde desconocido”? ", 
+        "Protestas de plaza Tian’anmen, Pekín"
+    ], 
+    [
+        "¿Con que material se hace el origami?", 
+        "Papel"
+    ], 
+    [
+        "¿Con qué nombre pasó la historia Michelangelo Merisi? ", 
+        "Caravaggio"
+    ], 
+    [
+        "¿Con qué nombre se conoce la energía producida por las partículas en movimiento?", 
+        "Alfblack Nobel"
+    ], 
+    [
+        "¿Con qué otro nombre se conoce el ciclo del agua? ", 
+        "Ciclo hidrológico"
+    ], 
+    [
+        "¿Con que parte del cuerpo hacen el zumbido las abejas? ", 
+        "Con las alas"
+    ], 
+    [
+        "¿Con qué pseudónimo se conocía al escritor José Martínez Ruiz ? ", 
+        "Azorín"
+    ], 
+    [
+        "¿Con qué sobrenomnre apodó el Presidente de la FIFA a Cristiano Ronaldo?", 
+        "El Comandante"
+    ], 
+    [
+        "¿Con qué suele arreglarse un diente con caries? ", 
+        "Empaste"
+    ], 
+    [
+        "¿Conocida por su barrio rojo y sus cafeterías, en las que se vende cannabis, ", 
+        "Ámsterdam"
+    ], 
+    [
+        "¿Cual área del arte premia el oscars?", 
+        "Películas"
+    ], 
+    [
+        "¿Cuál era el nombre de pila de Lenin? ", 
+        "Vladímir"
+    ], 
+    [
+        "¿Cuál era el nombre del caballo de Don Quijote?", 
+        "Rocinante  "
+    ], 
+    [
+        "¿Cuál era el nombre del Caballo del Cid?", 
+        "Babieca"
+    ], 
+    [
+        "¿Cuál era la nacionalidad de Heri Cartier-Bresson, considerado por muchos el padre del fotoreportaje? ", 
+        "Francesa"
+    ], 
+    [
+        "¿Cuál es considerado por los fans el peor juego de la historia de ATARI? ", 
+        "ET"
+    ], 
+    [
+        "¿Cuál es el animal que tiene la presión más alta? ", 
+        "Jirafa"
+    ], 
+    [
+        "¿Cuál es el cérvido de mayor tamaño? ", 
+        "El alce"
+    ], 
+    [
+        "¿Cuál es el clásico rival del Flamengo (BRA)?", 
+        "Corinthians"
+    ], 
+    [
+        "¿Cuál es el club de fútbol más antiguo de España?", 
+        "Recreativo de Huelva"
+    ], 
+    [
+        "¿Cuál es el código internacional para Cuba?", 
+        "CU"
+    ], 
+    [
+        "¿Cual es el color que representa la esperanza?", 
+        "Verde"
+    ], 
+    [
+        "¿Cual es el color que representa la esperanza?", 
+        "Verde"
+    ], 
+    [
+        "¿Cuál es el componente principal del chocolate? ", 
+        "Cacao"
+    ], 
+    [
+        "¿Cuál es el contrario de la palabra “digital”? ", 
+        "Analógico"
+    ], 
+    [
+        "¿Cuál es el derbi más esperado en Andalucía?", 
+        "Betis vs Sevilla"
+    ], 
+    [
+        "¿Cuál es el edificio más famoso en Dubai? ", 
+        "Burjal Arab"
+    ], 
+    [
+        "¿Cuál es el estadio de fútbol con mayor capacidad en América?", 
+        "Estadio Azteca ,México"
+    ], 
+    [
+        "¿Cuál es el estilo de natación más rápido?", 
+        "Crol"
+    ], 
+    [
+        "¿Cuál es el género teatral intermedio entre la comedia y la tragedia ? ", 
+        "Drama"
+    ], 
+    [
+        "¿Cuál es el hueso más pequeño del cuerpo? ", 
+        "El estribo"
+    ], 
+    [
+        "¿Cuál es el idioma oficial de Uruguay? ", 
+        "El español"
+    ], 
+    [
+        "¿Cual es el libro sagrado del Islam?", 
+        "El coram"
+    ], 
+    [
+        "¿Cual es el libro sagrado del Islam?", 
+        "El coram"
+    ], 
+    [
+        "¿Cuál es el mamífero más grande conocido hasta la actualidad? ", 
+        "Ballena Azul"
+    ], 
+    [
+        "¿Cuál es el mayor golfo de Africa? ", 
+        "El de Guinea"
+    ], 
+    [
+        "¿Cuál es el mineral más duro del planeta? ", 
+        "Diamante"
+    ], 
+    [
+        "¿Cuál es el músculo causante del espasmo muscular “Torticolis”? ", 
+        "Esternocleidomastoideo"
+    ], 
+    [
+        "¿Cuál es el nombre común del ácido ascórbico? ", 
+        "Vitamina C"
+    ], 
+    [
+        "¿Cuál es el nombre de Don Quijote de la Mancha?", 
+        "Alonso Quijano"
+    ], 
+    [
+        "¿Cual es el nombre de la actriz mexicana conocida como “la doña”?", 
+        "María Félix"
+    ], 
+    [
+        "¿Cual es el nombre de la casa de veraneo del Papa?", 
+        "Castelgandolfo"
+    ], 
+    [
+        "¿Cual es el nombre de la lengua hablada en china?", 
+        "Mandarin"
+    ], 
+    [
+        "¿Cuál es el nombre de Paul McCartney ? ", 
+        "James Paul McCartney"
+    ], 
+    [
+        "¿Cuál es el nombre de pila del presentador de televisión apodado como el Gran Wyoming? ", 
+        "José Miguel Monzón Navarro"
+    ], 
+    [
+        "¿Cuál es el nombre del compuesto cuya formula es H2SO4? ", 
+        "Ácido sulfúrico"
+    ], 
+    [
+        "¿Cuál es el nombre fenicio de la ciudad de Málaga? ", 
+        "Malaka"
+    ], 
+    [
+        "¿Cuál es el océano más profundo ?", 
+        "Pacífico"
+    ], 
+    [
+        "¿Cuál es el órgano que tiene como única función el placer? ", 
+        "Clítoris"
+    ], 
+    [
+        "¿Cuál es el país de origen del futbolista Lionel Messi?", 
+        "Argentina"
+    ], 
+    [
+        "¿Cuál es el país más pequeño de Asia ? ", 
+        "Maldivas"
+    ], 
+    [
+        "¿Cuál es el país menos turístico de Europa?", 
+        "Liechtenstein"
+    ], 
+    [
+        "¿Cuál es el plato típico de Mallorca? ", 
+        "Tumbet"
+    ], 
+    [
+        "¿Cuál es el segundo apellido de Gerad Piqué ?", 
+        "Bernabeu"
+    ], 
+    [
+        "¿Cuál es el símbolo de Bromo? ", 
+        "Br"
+    ], 
+    [
+        "¿Cuál es el símbolo del Sodio? ", 
+        "Na"
+    ], 
+    [
+        "¿Cuál es el símbolo químico del fósforo?", 
+        "Hemisferios cerebrales "
+    ], 
+    [
+        "¿Cual es el único mamífero capaz de volar?", 
+        "El murciélago"
+    ], 
+    [
+        "¿Cuál es el único nervio que no pasa por el tálamo? ", 
+        "Nervio Olfativo"
+    ], 
+    [
+        "¿Cuál es el verdadero nombre de “El Arrebato”? ", 
+        "Francisco Javier Labandón Pérez "
+    ], 
+    [
+        "¿Cuál es el verdadero nombre de Alejandro Sanz? ", 
+        "Alejandro Sánchez Pizarro"
+    ], 
+    [
+        "¿Cuál es la autora de ” Lo que el viento se llevó”? ", 
+        "Margaret Mitchell"
+    ], 
+    [
+        "¿Cúal es la capital de Alemania? ", 
+        "Berlín"
+    ], 
+    [
+        "¿Cuál es la capital de Angola? ", 
+        "Luanda"
+    ], 
+    [
+        "¿Cuál es la capital de Argelia? ", 
+        "Argel"
+    ], 
+    [
+        "¿Cuál es la capital de Baréin? ", 
+        "Manama"
+    ], 
+    [
+        "¿Cuál es la capital de Belice ?", 
+        "Belmopan"
+    ], 
+    [
+        "¿Cuál es la capital de Corea Del Sur? ", 
+        "Seúl"
+    ], 
+    [
+        "¿Cuál es la capital de Ecuador? ", 
+        "Quito"
+    ], 
+    [
+        "¿Cuál es la capital de Islandia?", 
+        "Reikjavik"
+    ], 
+    [
+        "¿Cuál es la capital de Japón?", 
+        "Tokio"
+    ], 
+    [
+        "¿Cuál es la capital de Kosovo? ", 
+        "Prístina"
+    ], 
+    [
+        "¿Cuál es la capital de la república de Macedonia? ", 
+        "Skopje"
+    ], 
+    [
+        "¿Cuál es la capital de Libia? ", 
+        "Trípoli"
+    ], 
+    [
+        "¿Cuál es la capital de Luxemburgo?", 
+        "Luxemburgo "
+    ], 
+    [
+        "¿Cuál es la capital de Suiza?", 
+        "Berna"
+    ], 
+    [
+        "¿Cuál es la capital de Vizcaia, País Vasco?", 
+        "Bilbao"
+    ], 
+    [
+        "¿Cuál es la capital del estado de Arkansas?", 
+        "Little Rock"
+    ], 
+    [
+        "¿Cuál es la capital del estado de California? ", 
+        "Sacramento"
+    ], 
+    [
+        "¿Cuál es la capital del noroeste de España, la capital del reino homónimo medieval? ", 
+        "León"
+    ], 
+    [
+        "¿Cuál es la ciencia que estudia la aplicación de la informática y las comunicaciones al hogar? ", 
+        "Domótica"
+    ], 
+    [
+        "¿Cuál es la ciudad fetiche del escritor Paul Auster? ", 
+        "Nueva York"
+    ], 
+    [
+        "¿Cuál es la ciudad más antigua de América Latina? ", 
+        "Caral"
+    ], 
+    [
+        "¿Cuál es la combinación de las teclas que copia texto en un PC? ", 
+        "ctrl + c"
+    ], 
+    [
+        "¿Cuál es la comunidad autónoma más grande de España?", 
+        "Andalucía "
+    ], 
+    [
+        "¿Cuál es la discográfica destintiva de la música soul? ", 
+        "Atlantic"
+    ], 
+    [
+        "¿Cuál es la distribución de Linux más usada?", 
+        "Quemadura"
+    ], 
+    [
+        "¿Cuál es la famosa película de Audrey Hepburn donde salía una conocida joyería ? ", 
+        "Desayuno con Diamantes "
+    ], 
+    [
+        "¿Cual es la fecha de independencia de los EEUU?", 
+        "4 de julio"
+    ], 
+    [
+        "¿Cuál es la fórmula química del agua? ", 
+        "H2O"
+    ], 
+    [
+        "¿Cuál es la fruta de Canarias? ", 
+        "Plátano"
+    ], 
+    [
+        "¿Cuál es la fuente de energía más utilizada en la actualidad? ", 
+        "Petróleo"
+    ], 
+    [
+        "¿Cuál es la función principal del instestino grueso? ", 
+        "La absorción de agua"
+    ], 
+    [
+        "¿Cual es la música típica de Argentina ?", 
+        "El Tango"
+    ], 
+    [
+        "¿Cual es la nación mas pequeña del mundo entero?", 
+        "El Vaticano"
+    ], 
+    [
+        "¿Cuál es la planta más conocida que tiene propiedades cicatrizantes,limpiadoras y regeneradoras? ", 
+        "Aloe Vera"
+    ], 
+    [
+        "¿Cuál es la raíz cuadrada del 169? ", 
+        "13"
+    ], 
+    [
+        "¿Cuál es la rama mayoritaria del Islam?  ", 
+        "Sunismo"
+    ], 
+    [
+        "¿Cuál es la religión mayoritaria en China? ", 
+        "Budismo"
+    ], 
+    [
+        "¿Cuál es la siguiente? ", 
+        "El hinduísmo"
+    ], 
+    [
+        "¿Cuál es la última cinta en las artes marciales ?", 
+        "Negra  "
+    ], 
+    [
+        "¿Cuál es principal celebración holandesa?", 
+        "El día de la Reina"
+    ], 
+    [
+        "¿Cuál fue el género más cultivado por los autores de la generación del 27? ", 
+        "Poesía"
+    ], 
+    [
+        "¿Cuál fué el Mundial de fútbol que consagró a Diego Armando Maradona?", 
+        "México’86"
+    ], 
+    [
+        "¿Cuál fue el primer festival de rock gratuito en durar más de 3 días en 1969? ", 
+        "Woodstock"
+    ], 
+    [
+        "¿Cuál fue el primer trayecto en tren en España? ", 
+        "Barcelona – Mataró"
+    ], 
+    [
+        "¿Cual personaje mitológico convertía todo lo que tocaba en oro?", 
+        "el rey Midas"
+    ], 
+    [
+        "¿Cuales de los siguientes no es un grupo sanguíneo?", 
+        "Arañas"
+    ], 
+    [
+        "¿Cúales son las ciudades autónomas de España? ", 
+        "Ceuta y Melilla"
+    ], 
+    [
+        "¿Cuales son las notas musicales?", 
+        "Do, re, mi, fa, sol, la, si"
+    ], 
+    [
+        "¿Cuáles son los colores de la bandera de Bolivia? ", 
+        "Rojo,amarillo y verde"
+    ], 
+    [
+        "¿Cuales son los cuatro tipos de sabores?", 
+        "Dulce, amargo, acido y salado"
+    ], 
+    [
+        "¿Cuáles son los efectos de la prolactina? ", 
+        "Producción de leche"
+    ], 
+    [
+        "¿Cuales son los equipos de fútbol de Sevilla?", 
+        "RBetis Balompié y Sevilla FC"
+    ], 
+    [
+        "¿Cuales son los estados fisicos de la materia?", 
+        "Sólido, líquido y gaseoso"
+    ], 
+    [
+        "¿Cuáles son los ingblackientes exclusivos de la paella valenciana son? ", 
+        "Arroz, judías verdes, carne de pollo y conejo"
+    ], 
+    [
+        "¿Cuáles son los principios del Derecho? ", 
+        "Equidad y Justicia"
+    ], 
+    [
+        "¿Cuándo comenzó a emitirse Gran Hermano en España ? ", 
+        "2000"
+    ], 
+    [
+        "¿Cuándo es verano en el hemisferio sur?", 
+        "De diciembre a marzo"
+    ], 
+    [
+        "¿Cuántas alas tiene una pulga? ", 
+        "Ninguna"
+    ], 
+    [
+        "¿Cuántas caras tiene un icosaedro? ", 
+        "20"
+    ], 
+    [
+        "¿Cuantas cartas hay en un juego de barajas?", 
+        "52 "
+    ], 
+    [
+        "¿Cuántas cartas tiene una baraja inglesa?", 
+        "52"
+    ], 
+    [
+        "¿Cuántas cavidades estomacales tiene una vaca? ", 
+        "Cuatro"
+    ], 
+    [
+        "¿Cuántas células de esperma fabrican los testículos de un hombre al día? ", 
+        "10 millones"
+    ], 
+    [
+        "¿Cuántas estrellas tiene la bandera de China?", 
+        "5"
+    ], 
+    [
+        "¿Cuántas finales del mundo jugó la Selección Argentina de fútbol?", 
+        "Cuatro"
+    ], 
+    [
+        "¿Cuántas huelgas generales se hicieron en España en 2012? ", 
+        "Dos"
+    ], 
+    [
+        "¿Cuantas islas tienen las Islas Canarias y cuantos islotes? ", 
+        "7 islas y 6 islotes "
+    ], 
+    [
+        "¿Cuántas Leyes de Mendel hay?", 
+        "11"
+    ], 
+    [
+        "¿Cuantas libras tiene una arroba?", 
+        "25 libras"
+    ], 
+    [
+        "¿Cuántas puntas de cada color hay en un tablero de backgammon?", 
+        "Doce"
+    ], 
+    [
+        "¿Cuántas veces se calcula que latirá el corazón a lo largo de toda la vida de una persona? ", 
+        "4000 millones"
+    ], 
+    [
+        "¿Cuánto dura un partido de balonmano?", 
+        "60 minutos"
+    ], 
+    [
+        "¿Cuánto dura un partido de fútbol?", 
+        "90 minutos"
+    ], 
+    [
+        "¿Cuánto es la raíz cuadrada de 625? ", 
+        "25"
+    ], 
+    [
+        "¿Cuánto es la raíz cuadrada del 121?", 
+        "Hipocondría"
+    ], 
+    [
+        "¿Cuánto pesa aproximadamente un bebé elefante al nacer? ", 
+        "Entre 70 y 100 kilos"
+    ], 
+    [
+        "¿Cuánto pesa aproximadamente una bola de bolera?", 
+        "Siete kilos y cuarto"
+    ], 
+    [
+        "¿Cuantos años tiene un lustro?", 
+        "5 años"
+    ], 
+    [
+        "¿Cuántos capítulos tiene el Corán? ", 
+        "114"
+    ], 
+    [
+        "¿Cuántos capítulos tiene la serie de televisión ‘Friends? ", 
+        "236"
+    ], 
+    [
+        "¿Cuántos centímetros cúbicos tiene un litro? ", 
+        "1000"
+    ], 
+    [
+        "¿Cuántos colores tenía la primera tarjeta gráfica? ", 
+        "2"
+    ], 
+    [
+        "¿Cuántos colores tiene la bandera española? ", 
+        "Dos"
+    ], 
+    [
+        "¿Cuántos colores tiene un cubo de Rubik clásico? ", 
+        "6"
+    ], 
+    [
+        "¿Cuántos cuadros tiene un tablero de ajedres?", 
+        "64"
+    ], 
+    [
+        "¿Cuántos grados Kelvin son 0 grados Celcius?", 
+        "Microondas "
+    ], 
+    [
+        "¿Cuántos hidrógenos tiene la molécula de metano? ", 
+        "4"
+    ], 
+    [
+        "¿Cuántos jugadores componen un equipo de rugby?", 
+        "15"
+    ], 
+    [
+        "¿Cuántos lóbulos tiene la glándula tiroides? ", 
+        "2"
+    ], 
+    [
+        "¿Cuántos mandamientos hay en el cristianismo? ", 
+        "10"
+    ], 
+    [
+        "¿Cuántos mangos por lado tiene el futbolín?", 
+        "Cuatro"
+    ], 
+    [
+        "¿Cuántos meses duró la Batalla de Moscú, que tuvo lugar durante la Segunda Guerra Mundial? ", 
+        "Tres"
+    ], 
+    [
+        "¿Cuántos premios Grammy ha ganado Britney Spears? ", 
+        "Uno"
+    ], 
+    [
+        "¿Cuántos puntos vale un tiro libre ensectado en baloncesto?", 
+        "Uno"
+    ], 
+    [
+        "¿Cuántos rayos gamma hay en una neurona? ", 
+        "Ninguno"
+    ], 
+    [
+        "¿Cuántos siglos duró el Siglo de Oro? ", 
+        "Mariano Rajoy"
+    ], 
+    [
+        "¿Cuántos soldados argentinos murieron en la Guerra de las Malvinas? ", 
+        "649"
+    ], 
+    [
+        "¿Cuántos son los dientes de leche? ", 
+        "20"
+    ], 
+    [
+        "¿Cuántos títulos mundiales posee el motociclista Valentino Rossi?", 
+        "Nueve"
+    ], 
+    [
+        "¿De cuál de estas plantas se extrae la marihuana? ", 
+        "Cannabis"
+    ], 
+    [
+        "¿De cual otra lengua proviene el español?", 
+        "Del latín"
+    ], 
+    [
+        "¿De donde de saca la sacarina? ", 
+        "Del carbón"
+    ], 
+    [
+        "¿De dónde era Diego Velázquez ? ", 
+        "Sevilla"
+    ], 
+    [
+        "¿De dónde era la cantante Rocío Jurado? ", 
+        "Cádiz"
+    ], 
+    [
+        "¿De dónde eran los vikingos?", 
+        "Noruega "
+    ], 
+    [
+        "¿De dónde es capital Thimbu? ", 
+        "De Bután"
+    ], 
+    [
+        "¿De dónde es originario el pan con aceite y azúcar? ", 
+        "Mahmud Ahmadineyad"
+    ], 
+    [
+        "¿De dónde forman parte los axones?", 
+        "P"
+    ], 
+    [
+        "¿De donde proviene el reggae? ", 
+        "Jamaica"
+    ], 
+    [
+        "¿De dónde viene el jugador Alexis Sánchez?", 
+        "Chile"
+    ], 
+    [
+        "¿De qué árbol eran las hojas que llevaban en la cabeza los antiguos romanos para simbolizar la victoria? ", 
+        "Laurel "
+    ], 
+    [
+        "¿De qué color es el cero en el cilindro de la ruleta?", 
+        "Verde"
+    ], 
+    [
+        "¿De qué color es el humo que informa a los creyentes de que se ha elegido un Papa nuevo? ", 
+        "Blanco"
+    ], 
+    [
+        "¿De qué color es el sudor de los hipopótamos? ", 
+        "Rojizo"
+    ], 
+    [
+        "¿De qué color es la sange de los peces? ", 
+        "Rojo"
+    ], 
+    [
+        "¿De qué colores es la bandera de Bélgica? ", 
+        "Negro, amarillo y rojo"
+    ], 
+    [
+        "¿De que deporte es el kemari uno de los principales antecesores? ", 
+        "Fútbol"
+    ], 
+    [
+        "¿De qué deporte es el longboard una de las modalidades?", 
+        "Skateboard"
+    ], 
+    [
+        "¿De qué distrito es Katniss de Los juegos del hambre? ", 
+        "Distrito 12"
+    ], 
+    [
+        "¿De que estaba fabricado originalmente el maquillaje blanco de las Geishas? ", 
+        "Plomo"
+    ], 
+    [
+        "¿De qué estilo artístico es la catedral de Santa María de Toledo? Literatura", 
+        "Gótico"
+    ], 
+    [
+        "¿De qué famosa película de Disney es el personaje Jafar ? ", 
+        "Aladdin"
+    ], 
+    [
+        "¿De qué fue ministro Manuel Fraga durante el franquismo? ", 
+        "De Información y Turismo"
+    ], 
+    [
+        "¿De qué manera consiguió EEUU el estado de Alaska de manos de Rusia? ", 
+        "Lo compró"
+    ], 
+    [
+        "¿De qué material está hecho un saxofón ? ", 
+        "Latón "
+    ], 
+    [
+        "¿De qué nacionalidad es el entrenador de fútbol Tata Martino?", 
+        "Argentina"
+    ], 
+    [
+        "¿De qué nacionalidad es la cantante Fey? ", 
+        "Mexicana"
+    ], 
+    [
+        "¿De qué novela de Fiodor M Dostoyevski es protagonista Raskolnikov? ", 
+        "Crimen y Castigo"
+    ], 
+    [
+        "¿De qué país es el panda el animal nacional ? ", 
+        "China"
+    ], 
+    [
+        "¿De qué siglo es representativo el arte mozárabe? ", 
+        "X"
+    ], 
+    [
+        "¿De que tiene forma Italia?", 
+        "Bota "
+    ], 
+    [
+        "¿De qué tipo eran las 3 medallas conseguidas por Usain Bolt en los Juegos Olimpicos de Londres 2012?", 
+        "Oro "
+    ], 
+    [
+        "¿Dimitir es sinónimo de?", 
+        "Renunciar, abandonar"
+    ], 
+    [
+        "¿Dónde apoyan los jinetes sus pies?", 
+        "Estribos"
+    ], 
+    [
+        "¿Dónde creció Sigmund Freud ?", 
+        "Viena"
+    ], 
+    [
+        "¿Dónde está el desierto del Gobi? ", 
+        "Al sur de Mongolia"
+    ], 
+    [
+        "¿Dónde está la ciudad de Mostar? ", 
+        "Bosnia y Herzegovina"
+    ], 
+    [
+        "¿Dónde está la isla más joven del mundo, nacida en 2011 producto de una erupción volcánica? ", 
+        "En Yemen"
+    ], 
+    [
+        "¿Dónde está la montaña de Jade ? ", 
+        "Taiwan"
+    ], 
+    [
+        "¿Dónde está Pernambuco? ", 
+        "En Brasil"
+    ], 
+    [
+        "¿Dónde están las líneas de Nazca?", 
+        "En Perú"
+    ], 
+    [
+        "¿Dónde están las torres Petronas? ", 
+        "En Malasia"
+    ], 
+    [
+        "¿Donde están los meniscos? ", 
+        "En las rodillas"
+    ], 
+    [
+        "¿Donde muere el padre del niño protagonista de la novela “Tan fuerte, tan cerca” de Jonathan Safran-Foer? ", 
+        "En los atentados del World Trade Center"
+    ], 
+    [
+        "¿Dónde nació el Hip-Hop? ", 
+        "Nueva York"
+    ], 
+    [
+        "¿Dónde nació el Rugby?", 
+        "Reino Unido"
+    ], 
+    [
+        "¿Dónde nació Shakespeare? ", 
+        "Stratford-upon-Avon"
+    ], 
+    [
+        "¿Dónde podemos ver el museo Domus? ", 
+        "La Coruña"
+    ], 
+    [
+        "¿Dónde queda el monumento a la mitad del mundo? ", 
+        "Quito"
+    ], 
+    [
+        "¿Dónde se almacena la información genética del ser humano? ", 
+        "ADN"
+    ], 
+    [
+        "¿Dónde se celebra el festival de música ” Alhambra Sound “? ", 
+        "Granada"
+    ], 
+    [
+        "¿Dónde se celebra el Oktoberfest? ", 
+        "Alemania"
+    ], 
+    [
+        "¿Dónde se disputará el próximo Mundial de Fútbol 2014?", 
+        "Brasil "
+    ], 
+    [
+        "¿Dónde se encuentra actualmente la Dama de Elche ? ", 
+        "En Madrid"
+    ], 
+    [
+        "¿Dónde se encuentra Baiona? ", 
+        "Pontevedra"
+    ], 
+    [
+        "¿Dónde se encuentra el Cabo de Gata ? ", 
+        "En Almería "
+    ], 
+    [
+        "¿Dónde se encuentra el Cerro Uritorco, conocido por sus avistamientos a OVNIS? ", 
+        "Capilla del Monte, Córdoba, Argentina"
+    ], 
+    [
+        "¿Dónde se encuentra la ciudad de Bahía Blanca? ", 
+        "Argentina"
+    ], 
+    [
+        "¿Dónde se encuentra la Comisión y el Consejo Europeo?", 
+        "Bruselas "
+    ], 
+    [
+        "¿Dónde se encuentra la cordillera de Los Andes? ", 
+        "América"
+    ], 
+    [
+        "¿Donde se encuentra la médula espinal?", 
+        "Columna vertebral"
+    ], 
+    [
+        "¿Dónde se encuentra Manresa ?", 
+        "Centro de Cataluña"
+    ], 
+    [
+        "¿Dónde se encuentran las Lagunas de Ruidera?", 
+        "Castilla la Mancha"
+    ], 
+    [
+        "¿Dónde se encuentran las medusas con veneno mortal?", 
+        "En las patas "
+    ], 
+    [
+        "¿Dónde se inventó el tenis de mesa?", 
+        "Inglaterra"
+    ], 
+    [
+        "¿Dónde se jugará la Copa Mundial de Rugby en 2015?", 
+        "Inglaterra"
+    ], 
+    [
+        "¿Dónde surgió la filosofía? ", 
+        "Grecia"
+    ], 
+    [
+        "¿Dónde tienen las papilas gustativas las moscas?", 
+        "SJobs y SWozniak"
+    ], 
+    [
+        "¿Dónde vive el delfín rosado? ", 
+        "En Brasil"
+    ], 
+    [
+        "¿Dónde vivía Ana Frank? ", 
+        "Ámsterdam"
+    ], 
+    [
+        "¿Dónde vivía Pablo Escobar? ", 
+        "Colombia"
+    ], 
+    [
+        "¿Durante qué años reinó de forma impuesta en España José Bonaparte? ", 
+        "Desde 1808 a 1813"
+    ], 
+    [
+        "¿El arte de cultivar árboles enanos o pequeños se llama?", 
+        "Bonsái"
+    ], 
+    [
+        "¿El Canal de la Mancha se encuentra en?", 
+        "Gran Bretaña"
+    ], 
+    [
+        "¿El ciempiés gigante del Amazonas puede medir más de 30 centimetros y cuelga de las cuevas ", 
+        "Una raza de perro"
+    ], 
+    [
+        "¿El Coliseo y la Basílica de San Pedro se encuentran en?", 
+        "Roma"
+    ], 
+    [
+        "¿El déficit de qué vitamina produce raquitismo? ", 
+        "D"
+    ], 
+    [
+        "¿El estrabismo es un defecto de que órgano?", 
+        "Ojos"
+    ], 
+    [
+        "¿El flamenco es la música típica de?", 
+        "Andalucía"
+    ], 
+    [
+        "¿El medio de transporte en la ciudad de Venecia es a través de?", 
+        "Góndolas"
+    ], 
+    [
+        "¿El músculo que realiza una función contraria a otro es su… ", 
+        "Antagonista"
+    ], 
+    [
+        "¿El museo del Prado se encuentra en la ciudad  de?", 
+        "Madrid  "
+    ], 
+    [
+        "¿El palacio de Buckingham es el palacio real de?", 
+        "Gran Bretaña"
+    ], 
+    [
+        "¿El Palacio de Louvre y el Arco del Triunfo son dos símbolos de?", 
+        "Francia"
+    ], 
+    [
+        "¿El primer presidente Negro en Sudáfrica fue?", 
+        "Nelson Mandela"
+    ], 
+    [
+        "¿El pueblo de Macondo en cual obra literaria lo encontramos?", 
+        "cien anos de soledad"
+    ], 
+    [
+        "¿El pulso de qué arteria se usa para comprobar la muerte de una persona?", 
+        "Un hongo"
+    ], 
+    [
+        "¿El Renacimiento marcó el inicio de la Edad… ", 
+        "Comunión Tradicionalista Carlista"
+    ], 
+    [
+        "¿El sínodo es una reunión de médicos, militares, obispos o síndicos?", 
+        "Obispos"
+    ], 
+    [
+        "¿El Tamesis es uno de los ríos mas grandes de?", 
+        "Gran Bretaña"
+    ], 
+    [
+        "¿El triangulo que tiene sus tres lados iguales  Como se llama?", 
+        "Equilátero"
+    ], 
+    [
+        "¿En cual continente se encuentra el mar negro?", 
+        "Europa"
+    ], 
+    [
+        "¿En cual continente se encuentran las cordilleras de los Alpes y Pirineos?", 
+        "Europa"
+    ], 
+    [
+        "¿En cual continente se encuentran los ríos Sena y el Danubio?", 
+        "Europa "
+    ], 
+    [
+        "¿En cuál de estas situaciones se sacará una bandera amarilla, o incluso roja, en las carreras de coches?", 
+        "Un peligro en la pista"
+    ], 
+    [
+        "¿En cuál de estos deportes no hay árbitro?", 
+        "Ultimate"
+    ], 
+    [
+        "¿En cuál de los siguientes países NO hay ningún desierto?", 
+        "Alemania"
+    ], 
+    [
+        "¿En cual país le llaman catiras a las mujeres rubias?", 
+        "Venezuela"
+    ], 
+    [
+        "¿En cual país queda la famosa montaña pan de azúcar?", 
+        "Brasil"
+    ], 
+    [
+        "¿En cual país queda la famosa Torre Eiffel?", 
+        "Paris, Francia"
+    ], 
+    [
+        "¿En cual país se encuentra la estatua del Cristo Redentor?", 
+        "Brasil"
+    ], 
+    [
+        "¿En cual país se encuentra la torre de Pisa?", 
+        "Italia"
+    ], 
+    [
+        "¿En cuántos lóbulos se divide el pulmón derecho?", 
+        "Rinofase"
+    ], 
+    [
+        "¿En cuántos mundiales de fútbol participó la selección de Canadá?", 
+        "1"
+    ], 
+    [
+        "¿En la década de los 90, la leyenda del fútbol Pelé fue ministro de deportes ", 
+        "Brasil "
+    ], 
+    [
+        "¿En matemáticas , ", 
+        "Edison"
+    ], 
+    [
+        "¿En medio de cuales países sudamericanos se encuentra el lago Tititaca ?", 
+        "Bolivia y Perú"
+    ], 
+    [
+        "¿En qué año dejó de existir el estado llamado Yugoslavia? ", 
+        "2003"
+    ], 
+    [
+        "¿En qué año empezó la Guerra del Golfo Pérsico? ", 
+        "1990"
+    ], 
+    [
+        "¿En qué año falleció Steve Jobs? ", 
+        "2011"
+    ], 
+    [
+        "¿En qué año se abrió el canal de Panamá ? ", 
+        "1914"
+    ], 
+    [
+        "¿En qué año se celebraron los primeros juegos olímpicos de verano , en Atenas?", 
+        "1896"
+    ], 
+    [
+        "¿En qué año se dictó la primera Constitución española? ", 
+        "Impuesto"
+    ], 
+    [
+        "¿En qué año se estrenó la película de Disney “Pinocho”?  ", 
+        "1940"
+    ], 
+    [
+        "¿En qué año se fundó The Walt Disney Company? ", 
+        "1923"
+    ], 
+    [
+        "¿En qué año se instauró el sufragio femenino en España? ", 
+        "1931"
+    ], 
+    [
+        "¿En qué año se perpetró la matanza de My Lai ? ", 
+        "1968"
+    ], 
+    [
+        "¿En qué año se proclamó la II República Española? ", 
+        "Evo Morales"
+    ], 
+    [
+        "¿En qué año subió Bismarck al poder ?  ", 
+        "1862"
+    ], 
+    [
+        "¿En qué año tuvo lugar el ataque a Pearl Harbor? ", 
+        "1941"
+    ], 
+    [
+        "¿En qué año viajó el primer hombre a la luna? ", 
+        "1969"
+    ], 
+    [
+        "¿En que banda canta Anthony Kiedis ? ", 
+        "black Hot Chili Peppers"
+    ], 
+    [
+        "¿En qué ciudad de Andalucía es típico el carnaval?", 
+        "Cádiz"
+    ], 
+    [
+        "¿En qué ciudad española encontrarás los barrios de la Trinidad, la Palmilla y Carranque? ", 
+        "Málaga"
+    ], 
+    [
+        "¿En qué ciudad se proclamó la primera constitución liberal de España en 1812? ", 
+        "Cádiz "
+    ], 
+    [
+        "¿En qué ciudad sudafricana ganó España su único mundial de fútbol?", 
+        "Johanesburgo "
+    ], 
+    [
+        "¿En qué comunidad autónoma se encuentra la población de Torrijos? ", 
+        "Toledo "
+    ], 
+    [
+        "¿En que consiste el procedimiento de esquilar?", 
+        "Cortar lana a ovejas"
+    ], 
+    [
+        "¿En qué continente está la India? ", 
+        "Asia"
+    ], 
+    [
+        "¿En qué continente queda Chile?", 
+        "América"
+    ], 
+    [
+        "¿En qué continente se encuentra el país Mexico? ", 
+        "América"
+    ], 
+    [
+        "¿En qué continente/s se encuentra Turquía? ", 
+        "Asia y Europa"
+    ], 
+    [
+        "¿En qué cordillera están la mayoría de las grandes montañas? ", 
+        "En el Himalaya"
+    ], 
+    [
+        "¿En qué deporte destacó Joe DiMaggio?", 
+        "Béisbol"
+    ], 
+    [
+        "¿En qué deporte se destaca Jonny Wilkinson?", 
+        "Rugby"
+    ], 
+    [
+        "¿En que época quedo ciego Stevie Wonder? ", 
+        "En la infancia"
+    ], 
+    [
+        "¿En qué está esculpida la Venus de MIlo? ", 
+        "Mármol"
+    ], 
+    [
+        "¿En qué guerra se hundieron los buques Sheffiel y Coventry? ", 
+        "Malvinas"
+    ], 
+    [
+        "¿En qué idioma se escribió el antiguo testamento por primera vez? ", 
+        "Hebreo"
+    ], 
+    [
+        "¿En qué lugar del cuerpo se produce la insulina? ", 
+        "Páncreas"
+    ], 
+    [
+        "¿En qué mar desemboca el rio Segura? ", 
+        "Mar Mediterráneo"
+    ], 
+    [
+        "¿En qué país de África es el español el idioma oficial? ", 
+        "Ghana"
+    ], 
+    [
+        "¿En qué país está la Laguna Verde? ", 
+        "Bolivia"
+    ], 
+    [
+        "¿En qué país está Ushuaia, la ciudad más al sur del mundo?", 
+        "Argentina"
+    ], 
+    [
+        "¿En qué país nació el protestantismo? ", 
+        "Alemania"
+    ], 
+    [
+        "¿En qué país nació el rey Juan Carlos I ? ", 
+        "Italia"
+    ], 
+    [
+        "¿En qué país nació la Bauhaus?  ", 
+        "Alemania"
+    ], 
+    [
+        "¿En que país se encuentra el famoso monumento Taj Mahal?", 
+        "India"
+    ], 
+    [
+        "¿En qué país se inventó el voleibol?", 
+        "Estados Unidos"
+    ], 
+    [
+        "¿En qué pais situarías a la bahia Hudson?", 
+        "Canadá"
+    ], 
+    [
+        "¿En qué país situarías la ciudad de Cali?", 
+        "Colombia"
+    ], 
+    [
+        "¿En qué parte del cuerpo se encuentra el tendón de Aquiles? ", 
+        "En el tobillo"
+    ], 
+    [
+        "¿En que parte del cuerpo se encuentra la trompa de Eustaquio?", 
+        "Oído"
+    ], 
+    [
+        "¿En que parte del cuerpo se encuentra la trompa de Falopio?", 
+        "Vientre, útero"
+    ], 
+    [
+        "¿En qué parte del cuerpo tienen rayas el okapi? ", 
+        "Las patas"
+    ], 
+    [
+        "¿En qué partido se organizan hoy los carlistas? ", 
+        "Nelson Mandela"
+    ], 
+    [
+        "¿En qué provincia desemboca el Ebro en el Mediterráneo ?", 
+        "Tarragona"
+    ], 
+    [
+        "¿En qué provincia está Valdelinares el pueblo más alto de España?", 
+        "Teruel "
+    ], 
+    [
+        "¿En qué provincia nació el Cid Campeador? ", 
+        "Burgos"
+    ], 
+    [
+        "¿En qué provincia vasca se situa el pueblo de Soraluze?", 
+        "Gipuzkoa"
+    ], 
+    [
+        "¿En qué se dividen las rupias indias y pakistanís?", 
+        "En paisas"
+    ], 
+    [
+        "¿En que se especializa la cartografía?", 
+        "En mapas"
+    ], 
+    [
+        "¿En qué siglo Europa conquistó Australia? ", 
+        "XVII"
+    ], 
+    [
+        "¿En qué siglo nació el artista conocido como Caravaggio? ", 
+        "XVI"
+    ], 
+    [
+        "¿En qué siglo termina la Edad Media? ", 
+        "XV"
+    ], 
+    [
+        "¿En qué tres estamentos estaba dividida la sociedad en el Antiguo Régimen ? ", 
+        "Clero, nobleza y tercer estado"
+    ], 
+    [
+        "¿En qué viaje Colón encontró a los Mayas? ", 
+        "Cuarto"
+    ], 
+    [
+        "¿Entre qué dos países está el lago Titicaca? ", 
+        "Bolivia y Perú"
+    ], 
+    [
+        "¿Florencia, lugar de nacimiento del insigne poeta Dante Aligieri, autor de la Divina Comedia, pertenece a la nación de?", 
+        "Italia "
+    ], 
+    [
+        "¿galeno es sinónimo de?", 
+        "Medico, doctor"
+    ], 
+    [
+        "¿Gato con guantes… ", 
+        "No caza ratones"
+    ], 
+    [
+        "¿In which of the Harry Potter books does Voldemort recover his body? ", 
+        "Harry Potter and the Goblet of Fire"
+    ], 
+    [
+        "¿La capoeira es un baile de cual país?", 
+        "Brasil"
+    ], 
+    [
+        "¿La Comuna de París fue un movimiento… ", 
+        "Insurrecional autogestionario del XIX"
+    ], 
+    [
+        "¿La famosa ciudad de Venecia pertenece a ?", 
+        "Italia"
+    ], 
+    [
+        "¿La Hacienda Altamira, en cual obra literaria la encontramos?", 
+        "Dona Bárbara "
+    ], 
+    [
+        "¿La otitis es la enfermedad de cual órgano?", 
+        "Oído"
+    ], 
+    [
+        "¿La persona que tiene complejo de Edipo a quien ama?", 
+        "A su mamá"
+    ], 
+    [
+        "¿La persona que tiene complejo de Electra a quien ama?", 
+        "A su padre"
+    ], 
+    [
+        "¿La persona que tiene complejo de  Narciso a quien ama?", 
+        "A si misma"
+    ], 
+    [
+        "¿Las palabras que provienen del francés Cómo se llaman?", 
+        "Galicismos"
+    ], 
+    [
+        "¿Las palabras que provienen del ingles Cómo se llaman?", 
+        "Anglosajonas"
+    ], 
+    [
+        "¿Las revueltas de dónde son llamadas Intifadas? ", 
+        "Palestina"
+    ], 
+    [
+        "¿Libertad,Igualdad…", 
+        "Fraternidad "
+    ], 
+    [
+        "¿Los cuatro evangelistas de la Biblia son Mateo, Marcos, Lucas y… ", 
+        "Juan"
+    ], 
+    [
+        "¿Los famosos palacios de Versalles y Fontaineblau se encuentran en?", 
+        "Francia"
+    ], 
+    [
+        "¿Los pueblos que creen en varios dioses como se llaman?", 
+        "Politeístas"
+    ], 
+    [
+        "¿Los ríos Tigris y Eufrates se encuentran en el continente?", 
+        "Asiático"
+    ], 
+    [
+        "¿Maria Antonieta fue reina de qué país? ", 
+        "Francia"
+    ], 
+    [
+        "¿Para qué fue creado el plan Marshall en 1947? ", 
+        "Reconstrucción"
+    ], 
+    [
+        "¿Para que sirve la prueba del carbono 14? ", 
+        "Deducir la edad de un material"
+    ], 
+    [
+        "¿Para qué vehiculo se necesitó un carné de conducir por primera vez en España? ", 
+        "Automóvil"
+    ], 
+    [
+        "¿Periplo es sinónimo de?", 
+        "Viaje, gira, recorrido"
+    ], 
+    [
+        "¿Pernoctar es sinónimo de?", 
+        "Dormir, amanecer, descansar"
+    ], 
+    [
+        "¿Por cuál de estas películas ganó Clint Eastwood el premio Oscar al mejor director? ", 
+        "Los puentes de Madison"
+    ], 
+    [
+        "¿Por qué los cocodrilos mantienen la boca abierta durante largo rato? ", 
+        "Para calentarse"
+    ], 
+    [
+        "¿Por qué tipo de elementos están formadas las sales binarias? ", 
+        "Un metal y un no metal"
+    ], 
+    [
+        "¿prole es sinónimo de?", 
+        "Hijos, descendencia"
+    ], 
+    [
+        "¿Qué accidente geográfico se define como un conjunto de islas, islotes y diminutas masas de tierra cercanas entre sí? ", 
+        "Archipiélago"
+    ], 
+    [
+        "¿Que accidente geográfico se define como una pendiente vertical abrupta? ", 
+        "Un acantilado"
+    ], 
+    [
+        "¿Qué actor ha hecho más películas como James Bond? ", 
+        "Roger Moore "
+    ], 
+    [
+        "¿Qué actor interpretaba a “Hache” en la película 3MSC? ", 
+        "Mario Casas"
+    ], 
+    [
+        "¿Qué actor protagonizó la película “Grease”? ", 
+        "Jonh Travolta"
+    ], 
+    [
+        "¿Qué actor rechazó el papel de Michael Corleone en la película “El Padrino”, finalmente interpretado por Al Pacino? ", 
+        "Jack Nicholson"
+    ], 
+    [
+        "¿Qué actriz hace un desnudo de su brazo en ‘Gilda ‘? ", 
+        "Rita Hayworth"
+    ], 
+    [
+        "¿Qué actriz sale en “La mano que mece la cuna”? ", 
+        "Rebecca de Mornay"
+    ], 
+    [
+        "¿Qué animal quería ser domesticado por El Principito? ", 
+        "Un zorro"
+    ], 
+    [
+        "¿Qué animal representa al Sistema Operativo Linux? ", 
+        "Pingüino"
+    ], 
+    [
+        "¿Qué animal son los polacos en la novela gráfica sobre el Holocausto nazi ‘Maus’ ? ", 
+        "Cerdos "
+    ], 
+    [
+        "¿Qué arte marcial utiliza mayor procentaje de extremidades inferiores?", 
+        "Taekwondo "
+    ], 
+    [
+        "¿Qué articulación une el fémur con la tibia? ", 
+        "Rodilla"
+    ], 
+    [
+        "¿Qué artista aparece retratado en “Las Meninas”? ", 
+        "Velázquez "
+    ], 
+    [
+        "¿Qué artista expuso un orinal con el título ‘La fuente’? ", 
+        "Marcel Duchamp"
+    ], 
+    [
+        "¿Qué banda de Heavy Metal lanzó un disco de colaboración con el recientemente fallecido Lou Reed? ", 
+        "Four Rooms"
+    ], 
+    [
+        "¿Qué Beatle fue asesinado por un fan? ", 
+        "Metálica"
+    ], 
+    [
+        "¿Qué cambio de estado ocurre en la sublimación?  ", 
+        "De sólido a gaseoso"
+    ], 
+    [
+        "¿Qué cantante hizo una aparición en el medio tiempo del Superbowl 2014? ", 
+        "Bruno Mars"
+    ], 
+    [
+        "¿Que cantidad de huesos tiene en total el ser humano?", 
+        "206"
+    ], 
+    [
+        "¿Qué causa furor en Internet? ", 
+        "Los gatos"
+    ], 
+    [
+        "¿Que causa todo lo que es letal?", 
+        "la muerte"
+    ], 
+    [
+        "¿Qué científico alemán trabajó NASA? ", 
+        "Wernher von Braun"
+    ], 
+    [
+        "¿Qué ciudad es conocida por su carnaval,considerado el segundo más importante del mundo ?", 
+        "Santa Cruz de Tenerife"
+    ], 
+    [
+        "¿Qué ciudad española era conocida como ‘Lucentum’ por los romanos? ", 
+        "Alicante"
+    ], 
+    [
+        "¿Qué ciudad europea es famosa por la belleza de su parlamento? ", 
+        "Budapest"
+    ], 
+    [
+        "¿Qué ciudad fue llamada por los árabes Al-Basit? ", 
+        "Albacete"
+    ], 
+    [
+        "¿Qué ciudades describe Italo Calvino en “Las ciudades invisibles”? ", 
+        "Ciudades imaginadas por Marco Polo"
+    ], 
+    [
+        "¿Qué clase de peso en el boxeo está entre el peso gallo y el peso ligero?", 
+        "Peso pluma"
+    ], 
+    [
+        "¿Qué compuesto químico es el componente activo de los pimientos picantes? ", 
+        "Capsaicina"
+    ], 
+    [
+        "¿Qué comunidad autónoma tiene más kilometros de costa? ", 
+        "Galicia "
+    ], 
+    [
+        "¿Qué contiene el cactus llamado peyote? ", 
+        "Mescalina"
+    ], 
+    [
+        "¿Qué cosa perdida buscaba Marcel Proust? ", 
+        "El tiempo"
+    ], 
+    [
+        "¿Qué dedo del pie tiene generalmente la uña más grande? ", 
+        "Dedo Gordo"
+    ], 
+    [
+        "¿Qué describe una prosopografía? ", 
+        "El físico de una persona"
+    ], 
+    [
+        "¿Qué día es San Valentín? ", 
+        "14 de Febrero"
+    ], 
+    [
+        "¿Qué director de cine norteamericano aterrorizó a los Estados Unidos con su adaptación radiofónica de “La guerra de los mundos”? ", 
+        "Orson Welles"
+    ], 
+    [
+        "¿Qué droga de diseño,también conocida como MDMA, es análoga a la metanfetamina? ", 
+        "Éxtasis"
+    ], 
+    [
+        "¿Qué droga de las denominadas ‘blandas’ es útil en el tratamiento del dolor?", 
+        "Ubunto"
+    ], 
+    [
+        "¿Qué editorial ha publicado los dos últimos libros del humorista y escritor Miguel Noguera? ", 
+        "Blackie Books"
+    ], 
+    [
+        "¿Qué Emperador Romano estuvo más años en el poder ? ", 
+        "Octavio Augusto "
+    ], 
+    [
+        "¿Qué enfermedad se caracteriza por repentinos ataques de sueño?", 
+        "Molusco"
+    ], 
+    [
+        "¿Qué equipo de fútbol es de Cataluña?", 
+        "Todos son correctos"
+    ], 
+    [
+        "¿Qué era Le Chat Noir, el establecimiento que anunciaban los carteles el famoso gato negro de París? ", 
+        "Un cabaret"
+    ], 
+    [
+        "¿Qué es el Cabo de Creus?", 
+        "El punto más oriental de la Península"
+    ], 
+    [
+        "¿Qué es el calostro? ", 
+        "La primera leche materna"
+    ], 
+    [
+        "¿Qué es el caracol?", 
+        "Australia"
+    ], 
+    [
+        "¿Qué es el ciclo de krebs? ", 
+        "Ciclo del ácido cítrico"
+    ], 
+    [
+        "¿Que es el ciprés?", 
+        "Una planta"
+    ], 
+    [
+        "¿Qué es el colesterol?", 
+        "Esguince "
+    ], 
+    [
+        "¿Qué es el gavial (Gavialis gangeticus)? ", 
+        "Cocodrilo"
+    ], 
+    [
+        "¿Qué es la hemofobia? ", 
+        "Miedo a la sangre"
+    ], 
+    [
+        "¿Qué es la levadura?", 
+        "140"
+    ], 
+    [
+        "¿Qué es la UA?", 
+        "Unión Africana"
+    ], 
+    [
+        "¿Qué es lo que más lugar ocupa en el cerebro humano?", 
+        "Universal Serial Bus"
+    ], 
+    [
+        "¿Qué es lo que transforma la leche en yogur? ", 
+        "Una bacteria"
+    ], 
+    [
+        "¿Qué es Plutón? ", 
+        "Un planeta"
+    ], 
+    [
+        "¿Qué es un bit? ", 
+        "La unidad más pequeña de almacenamiento"
+    ], 
+    [
+        "¿Qué es un equino? ", 
+        "Un caballo"
+    ], 
+    [
+        "¿Que es un mitómano?", 
+        "Persona con manía de mentir"
+    ], 
+    [
+        "¿Que es una arroba?", 
+        "Una unidad de medida. Equivale a 25 libras"
+    ], 
+    [
+        "¿Qué escritor español firmaba como Fígaro? ", 
+        "Mariano José de Larra"
+    ], 
+    [
+        "¿Qué estudia el herpetólogo? ", 
+        "Reptiles y viboras"
+    ], 
+    [
+        "¿Qué estudia la icitología? ", 
+        "Los peces"
+    ], 
+    [
+        "¿Qué famosa artista estaba casada con su colega, Diego Rivera? ", 
+        "Frida Kahlo"
+    ], 
+    [
+        "¿Qué famoso actor norteamericano fue el primer marido de Lauren Bacall? ", 
+        "Humphrey Bogart"
+    ], 
+    [
+        "¿Qué filósofo dijo ‘solo sé que no sé nada’? ", 
+        "Sócrates"
+    ], 
+    [
+        "¿Qué forma es característica de las plantas de las iglesias románicas? ", 
+        "Cruz"
+    ], 
+    [
+        "¿Qué fotografía, sobre todo, Anne Geddes? ", 
+        "Bebés"
+    ], 
+    [
+        "¿Qué francés fue gillotinado por Robespierre durante la Revolución Francesa? ", 
+        "Luis XVI"
+    ], 
+    [
+        "¿Qué fue Dracón? ", 
+        "Dos"
+    ], 
+    [
+        "¿Qué función cumplen los bigotes del gato? ", 
+        "Son un órgano táctil"
+    ], 
+    [
+        "¿Qué función tienen las manchas de la jirafa? ", 
+        "Sacar el calor"
+    ], 
+    [
+        "¿Qué gimnasta española ha disputado cuatro juegos Olímpicos?", 
+        "Almudena Cid"
+    ], 
+    [
+        "¿Qué grupo cómico dobló al español a los protagonistas de “Shrek”? ", 
+        "Cruz y Raya"
+    ], 
+    [
+        "¿Qué grupo ha sido precursor del género Flamenco Chill? ", 
+        "Chambao"
+    ], 
+    [
+        "¿Qué grupo interpretaba la canción ” Smells like teen spirit “? ", 
+        "Nirvana"
+    ], 
+    [
+        "¿Qué hace la cochinilla de la humedad si la tocamos? ", 
+        "Se enrolla"
+    ], 
+    [
+        "¿Qué hace un procastinador? ", 
+        "Pospone sus actividades"
+    ], 
+    [
+        "¿Qué hay en la boca del estómago?  ", 
+        "El cardías"
+    ], 
+    [
+        "¿Qué hay que ponerle a un vidrio para convertirlo en un espejo? ", 
+        "Aluminio "
+    ], 
+    [
+        "¿Qué heroína de la Guerra de la Independencia Española murió en Ceuta? ", 
+        "Agustina de Aragón "
+    ], 
+    [
+        "¿Que hueso se encuentra en el pene de la mayoría de mamíferos? ", 
+        "Báculo"
+    ], 
+    [
+        "¿Qué imperio llegó a conquistar casí toda Europa? ", 
+        "Romano"
+    ], 
+    [
+        "¿Qué Imperio se disolvio,después de 846 años, el 6 de agosto de 1806? ", 
+        "El Sacro Imperio Romano Germánico"
+    ], 
+    [
+        "¿Qué ingeniero y arquitecto valenciano contruyó el puente del Alamillo de Sevilla ? ", 
+        "Calatrava"
+    ], 
+    [
+        "¿Qué integrante de The Beatles falleció en 2001? ", 
+        "George Harrison "
+    ], 
+    [
+        "¿qué jugada tengo?", 
+        "Trio"
+    ], 
+    [
+        "¿Qué jugador francés ha ganado un balón de oro mientras jugaba en Italia?", 
+        "Zidane"
+    ], 
+    [
+        "¿Qué jugadora de hockey sobre césped ha ganado 7 veces el premio a la mejor jugadora del mundo de 2013?", 
+        "Luciana Aymar"
+    ], 
+    [
+        "¿Qué líquido almacenan los cactus? ", 
+        "Agua"
+    ], 
+    [
+        "¿Qué marca creó en 2007 el primer iPhone? ", 
+        "Apple"
+    ], 
+    [
+        "¿Qué metal es líquido a temperatura ambiente? ", 
+        "Mercurio"
+    ], 
+    [
+        "¿Qué modelo de Estado se propugna en la Constitución española? ", 
+        "Estado social y democrático de Derecho"
+    ], 
+    [
+        "¿Qué modelo de Seat significó la motorización de los españoles? ", 
+        "600"
+    ], 
+    [
+        "¿Qué motivó la rebelión que dio lugar a la Guerra de la Independencia de EEUU? ", 
+        "Todos son correctos"
+    ], 
+    [
+        "¿Qué nervio es el VII par craneal? ", 
+        "Nervio facial"
+    ], 
+    [
+        "¿Qué nombre recibe la persona que no tiene melanina en los melanocitos de la piel? ", 
+        "Albina "
+    ], 
+    [
+        "¿Qué nombre recibían las mayores circunscripciones políticas y administrativas en la América dominada por España? ", 
+        "Virreinato"
+    ], 
+    [
+        "¿Qué nombre tiene el portátil más ligero, en peso, de Apple?", 
+        "273,15"
+    ], 
+    [
+        "¿Qué numero llevó Raúl en el Real Madrid?", 
+        "7"
+    ], 
+    [
+        "¿Qué obra de mármol de Miguel Ángel se encuentra en la Basílica de San Pedro? ", 
+        "La Piedad"
+    ], 
+    [
+        "¿Qué odia Mafalda? ", 
+        "La sopa"
+    ], 
+    [
+        "¿Qué organo del cuerpo es el más dañado por el consumo excesivo de alcohol? ", 
+        "Hígado"
+    ], 
+    [
+        "¿Qué órgano del cuerpo humano produce la bilis?  ", 
+        "Hígado"
+    ], 
+    [
+        "¿Qué otro nombre recibió el período de la Gran Hambruna China? ", 
+        "Todas son correctas"
+    ], 
+    [
+        "¿Qué otro nombre recibió la Primera Guerra Mundial hasta 1939 ? ", 
+        "La Gran Guerra"
+    ], 
+    [
+        "¿Qué país africano fue antigua colonia española? ", 
+        "Guinea Ecuatorial"
+    ], 
+    [
+        "¿Qué país es bañado por la Bahía de Hudson? ", 
+        "Canadá"
+    ], 
+    [
+        "¿Qué país es campeón del mundo de balonmano masculino del 2013?", 
+        "España"
+    ], 
+    [
+        "¿Qué país fue dirigido por Stalin? ", 
+        "Union Soviética"
+    ], 
+    [
+        "¿Qué país fue el aliado de la marina española en la batalla de trafalgar? ", 
+        "Francia"
+    ], 
+    [
+        "¿Qué país fue el ganador de baloncesto en los Juegos Olímpicos de Londres 2012?", 
+        "Estados Unidos"
+    ], 
+    [
+        "¿Qué país ganó el Mundial de balonmano en el año 2013?", 
+        "España"
+    ], 
+    [
+        "¿Qué país NO se encuentra en Asia?", 
+        "Comores "
+    ], 
+    [
+        "¿Qué países integran la alianza centroeuropea llamada Grupo Visegrad?", 
+        "Hungría,Polonia,Rep Checa y Eslovaquia"
+    ], 
+    [
+        "¿Qué parte del cuerpo humano puede tener un soplo?", 
+        "3"
+    ], 
+    [
+        "¿Qué personaje de Disney perdió su zapato de cristal ? ", 
+        "Cenicienta"
+    ], 
+    [
+        "¿Qué personaje del videojuego Mortal Kombat tiene poderes de hielo? ", 
+        "Sub-Zero"
+    ], 
+    [
+        "¿Qué personaje famoso lidera la banda llamada Nancys Rubias? ", 
+        "Mario Vaquerizo"
+    ], 
+    [
+        "¿Qué personaje histórico interpreta Daniel Day-Lewis en una película de Steven Spielberg? ", 
+        "Abraham Lincoln"
+    ], 
+    [
+        "¿Qué piloto español de Fórmula 1 tiene 2 mundiales ganados en su haber?", 
+        "Fernando Alonso"
+    ], 
+    [
+        "¿Qué poeta escribió ‘A galopar’? ", 
+        "Rafael Alberti "
+    ], 
+    [
+        "¿Qué premiada serie de televisión tiene como protagonista a un publicista? ", 
+        "World Wide Web"
+    ], 
+    [
+        "¿Qué profesión tenía Hércules Poiriot en las novelas de Agatha Christie? ", 
+        "Detective"
+    ], 
+    [
+        "¿Qué se altera cuando nos damos un golpe en la cabeza que nos hace “ver las estrellas”? ", 
+        "El nervio óptico"
+    ], 
+    [
+        "¿Qué se celebra el 8 de Marzo? ", 
+        "El día de la mujer"
+    ], 
+    [
+        "¿Que se opera en una rinoplastia? ", 
+        "La nariz"
+    ], 
+    [
+        "¿Qué selección acumula mayor cantidad de expulsados en  mundiales de fútbol?", 
+        "Argentina"
+    ], 
+    [
+        "¿Qué separa las franjas de Gaza y Cisjordania?", 
+        "Israel"
+    ], 
+    [
+        "¿Qué significa ARN? ", 
+        "Ácido Ribonucleico"
+    ], 
+    [
+        "¿Que significa el termino cleptómano?", 
+        "Manía de robar"
+    ], 
+    [
+        "¿Qué significa?", 
+        "Finalización del partido"
+    ], 
+    [
+        "¿Qué significan las siglas “www”?", 
+        "Hipocrático"
+    ], 
+    [
+        "¿Qué significan las siglas ADN? ", 
+        "Ácido desoxirribonucleico"
+    ], 
+    [
+        "¿Qué significan las siglas USB?", 
+        "OO"
+    ], 
+    [
+        "¿Qué sobrenombre tenía Guillermo I de Inglaterra? ", 
+        "El Conquistador"
+    ], 
+    [
+        "¿Qué son la morfina y la heroína? ", 
+        "Opiáceos"
+    ], 
+    [
+        "¿Qué son las enzimas? ", 
+        "Proteínas"
+    ], 
+    [
+        "¿Qué son los “julios”? ", 
+        "Magnitud de la energía,trabajo y calor"
+    ], 
+    [
+        "¿Qué son los leucocitos? ", 
+        "Glóbulos blancos "
+    ], 
+    [
+        "¿Qué son los pugs ?", 
+        "Tres "
+    ], 
+    [
+        "¿Qué son los triglicéridos? ", 
+        "Lípidos"
+    ], 
+    [
+        "¿Qué sonido hace un elefante? ", 
+        "Baritan"
+    ], 
+    [
+        "¿Qué sustancia libera el Sistema Parasimpático? ", 
+        "Acetilcolina"
+    ], 
+    [
+        "¿Qué sustancia permite realizar la fotosíntesis? ", 
+        "Clorofila"
+    ], 
+    [
+        "¿Qué sustancias se liberan en una combustión completa? ", 
+        "Dióxido de carbono y agua"
+    ], 
+    [
+        "¿Que tiene más concentración de sal?", 
+        "Osteoporosis "
+    ], 
+    [
+        "¿Qué tienen en común Ty Cobb, Cy Young y Roberto Clemente?", 
+        "Son jugadores de béisbol"
+    ], 
+    [
+        "¿Que tienen todas las fabulas al final?", 
+        "Una moraleja"
+    ], 
+    [
+        "¿Qué tipo de competición es el Giro de Italia?", 
+        "Una carrera ciclista"
+    ], 
+    [
+        "¿Qué tipo de mamífero es un conejo? ", 
+        "Lagomorfo"
+    ], 
+    [
+        "¿Qué tipo de músculos realizan los movimientos voluntarios? ", 
+        "Estriados "
+    ], 
+    [
+        "¿Qué título recibían los soberanos musulmanes en España ? ", 
+        "Califa "
+    ], 
+    [
+        "¿Qué universidad cumplió 125 años en 2011? ", 
+        "Deusto"
+    ], 
+    [
+        "¿Quén es el autor de “El amor en los tiempos de cólera”? ", 
+        "Gabriel García Márquez"
+    ], 
+    [
+        "¿Quén escribió el poema cuyo inicio es “Pegasos, lindos Pegasos, caballitos de madera”? ", 
+        "Antonio Machado"
+    ], 
+    [
+        "¿Quién canta ” Vivir mi vida”? ", 
+        "Marc Anthony"
+    ], 
+    [
+        "¿Quién compuso la famosa canción “Bohemian Rhapsody? ", 
+        "Fblackdie Mercury"
+    ], 
+    [
+        "¿Quién consquisto Valencia de los musulmanes? ", 
+        "Jaume I"
+    ], 
+    [
+        "¿Quién descubrió América ? ", 
+        "Cristobal Colón "
+    ], 
+    [
+        "¿Quién dijo que la diferencia entre la estupidez y la genialidad es que la genialidad tiene límites ? ", 
+        "Einstein"
+    ], 
+    [
+        "¿Quién dirigió la película “Los lunes al sol”? ", 
+        "Fernando León de Aranoa"
+    ], 
+    [
+        "¿Quién dirigió la película ” Lo Que El Viento Se Llevó “? ", 
+        "Victor Fleming"
+    ], 
+    [
+        "¿Quién es Bella en la saga “Crepúsculo”? ", 
+        "Kristen Stewart"
+    ], 
+    [
+        "¿Quién es conocido como ” El Victorioso de Alá”? ", 
+        "Almanzor"
+    ], 
+    [
+        "¿Quién es considerado el padre de la genética?", 
+        "MacBook Air"
+    ], 
+    [
+        "¿Quién es el actual presidente de México (2014)? ", 
+        "Enrique Peña Nieto"
+    ], 
+    [
+        "¿Quién es el autor de “El principito”? ", 
+        "Antoine de Saint-Exupery"
+    ], 
+    [
+        "¿Quién es el autor de “El retrato de Dorian Gray”? ", 
+        "Oscar Wilde"
+    ], 
+    [
+        "¿Quién es el autor de “La Celestina”? ", 
+        "Fernando de Rojas"
+    ], 
+    [
+        "¿Quién es el autor de “Moby Dick”? ", 
+        "Herman Melville"
+    ], 
+    [
+        "¿Quién es el autor de ” 20 poemas de amor y una canción desesperada”? ", 
+        "Pablo Neruda"
+    ], 
+    [
+        "¿Quién es el autor de la novela ‘Crimen y Castigo ‘? ", 
+        "Fiódor Dostoyevski"
+    ], 
+    [
+        "¿Quién es el autor de la obra teatral “Casa de Muñecas”? ", 
+        "Henrik Ibsen"
+    ], 
+    [
+        "¿Quién es el autor del libro “Once minutos”? ", 
+        "Paulo Coelho"
+    ], 
+    [
+        "¿Quién es el guitarrista de la banda de rock ” Chickenfoot”? ", 
+        "Joe Satriani"
+    ], 
+    [
+        "¿Quién es el máximo goleador de la selección argentina de fútbol?", 
+        "Batistuta"
+    ], 
+    [
+        "¿Quién es el máximo goleador del FC Barcelona, hasta el 2013?", 
+        "Lionel Messi"
+    ], 
+    [
+        "¿Quien es el padre del sicoanálisis?", 
+        "Sigmund Freud"
+    ], 
+    [
+        "¿Quién es el profesor del colegio Hogwarts que se convierte en Hombre lobo? ", 
+        "Remus Lupin"
+    ], 
+    [
+        "¿Quién es el sucesor directo de Juan Carlos I? ", 
+        "Felipe VI"
+    ], 
+    [
+        "¿Quién es la autor del libro “El gato negro y otros cuentos de terror”? ", 
+        "Edgar Allan Poe"
+    ], 
+    [
+        "¿Quién es la autora de “Los Juegos del Hambre”? ", 
+        "Suzanne Collins"
+    ], 
+    [
+        "¿Quién es la mascota de SEGA? ", 
+        "Sonic"
+    ], 
+    [
+        "¿Quién es Mario Casas ? ", 
+        "Un actor "
+    ], 
+    [
+        "¿Quién es?", 
+        "John Lennon"
+    ], 
+    [
+        "¿Quién escribió ‘ El modulor’? ", 
+        "Le Corbusier"
+    ], 
+    [
+        "¿Quién escribió ‘Don Juan Tenorio’? ", 
+        "José Zorrilla"
+    ], 
+    [
+        "¿Quién escribió “El túnel”? ", 
+        "Ernesto Sabato"
+    ], 
+    [
+        "¿Quién escribió “El viejo y el mar? ", 
+        "Ernest Hemingway"
+    ], 
+    [
+        "¿Quién escribió ” Abaddón el Exterminador”? ", 
+        "Ernesto Sabato "
+    ], 
+    [
+        "¿Quién escribió la música del himno de la Comunidad de Valencia? ", 
+        "José Serrano Simeón"
+    ], 
+    [
+        "¿Quién escribió la novela “María”? ", 
+        "Jorge Isaacs"
+    ], 
+    [
+        "¿Quién escribió la trilogía “Los Juegos del Hambre”? ", 
+        "Suzanne Collins"
+    ], 
+    [
+        "¿Quién fue Antonio Lucio Vivaldi? ", 
+        "Violinista y Compositor del Barroco"
+    ], 
+    [
+        "¿Quién fue Bobby Fischer? ", 
+        "Una leyenda del ajedrez"
+    ], 
+    [
+        "¿Quién fue el inventor de la bombilla ? ", 
+        "Hipoclorito de Sodio"
+    ], 
+    [
+        "¿Quién fue el Inventor de la dinamita?", 
+        "Aorta"
+    ], 
+    [
+        "¿Quién fue galardonado con el premio Nobel de la Paz en 2007? ", 
+        "Albert Gore"
+    ], 
+    [
+        "¿Quién fundaron la marca Apple?", 
+        "Neurona"
+    ], 
+    [
+        "¿Quién ganó cuatro mundiales consecutivos de Fórmula 1?", 
+        "Sebastian Vettel"
+    ], 
+    [
+        "¿Quién ganó dos veces tres campeonatos consecutivamente en la NBA?", 
+        "Michael Jordan "
+    ], 
+    [
+        "¿Quién ganó el mundial de fútbol del año 2002?", 
+        "Brasil"
+    ], 
+    [
+        "¿Quién ganó las elecciones presidenciales de la república de México en 2012? ", 
+        "Enrique Peña Nieto"
+    ], 
+    [
+        "¿Quién gobernó Francia desde 1799 a 1815? ", 
+        "Napoleón Bonaparte"
+    ], 
+    [
+        "¿Quién hizo la obra “La vida es sueño”? ", 
+        "Calderón de la Barca"
+    ], 
+    [
+        "¿Quién interpreta la canción “Baby One More Time “? ", 
+        "Britney Spears"
+    ], 
+    [
+        "¿Quién introdujo la lira en la lírica española? ", 
+        "Garcilaso de la Vega"
+    ], 
+    [
+        "¿Quién inventó el arte marcial llamado Jeet Kune Do?", 
+        "Bruce Lee"
+    ], 
+    [
+        "¿Quién liberó a Argentina, Chile y Perú? ", 
+        "José de San Martín"
+    ], 
+    [
+        "¿Quién marcó el gol 3500 en Liga del Atlético de Madrid?", 
+        "Christian Vieri"
+    ], 
+    [
+        "¿Quién pintó ‘Idas y venidas La Martinica’? ", 
+        "Paul Gauguin"
+    ], 
+    [
+        "¿Quién pintó el cuado “El jardín de las delicias”? ", 
+        "El Bosco"
+    ], 
+    [
+        "¿Quién pintó el famoso cuadro de pop art ‘ Latas de sopa Campbell ‘? ", 
+        "Andy Warhol"
+    ], 
+    [
+        "¿Quién pintó La Capilla Sixtina? ", 
+        "Miguel Ángel"
+    ], 
+    [
+        "¿Quien pinto la ultima cena?", 
+        "Leonardo da Vinci"
+    ], 
+    [
+        "¿Quién postuló la ley del principio de inercia? ", 
+        "Isaac Newton"
+    ], 
+    [
+        "¿Quién preside la UEFA actualmente?", 
+        "Michel Platini"
+    ], 
+    [
+        "¿Quién presidia España durante el fallido golpe de estado del 23 de Febrero de 1981? ", 
+        "Adolfo Suárez"
+    ], 
+    [
+        "¿Quién pronunció la frase: “Bebamos de la copa de la destrucción”? ", 
+        "Gengis Kan"
+    ], 
+    [
+        "¿Quién protagonizo la pelicula “Descubriendo nunca jamás”? ", 
+        "Johnny Deep"
+    ], 
+    [
+        "¿Quién quedó número 1 del mundo de tenis en 2008?", 
+        "Rafael Nadal"
+    ], 
+    [
+        "¿Quién recibió en 2009 el Premio Nobel de la Paz? ", 
+        "Barack Obama"
+    ], 
+    [
+        "¿Quién se comió a Garbancito según el cuento popular ? ", 
+        "Un Buey "
+    ], 
+    [
+        "¿Quién se hizo famoso,gracias a su frase “que hay de nuevo viejo”? ", 
+        "Bugs bunny"
+    ], 
+    [
+        "¿Quién tiró el segundo disparo más veloz del mundo ?", 
+        "Zlatan Ibrahimovic"
+    ], 
+    [
+        "¿Quién vivía en el 221B de Backer Street? ", 
+        "Sherlock Holmes"
+    ], 
+    [
+        "¿Quiénes fueron los Reyes Católicos? ", 
+        "Isabel I y Fernando II"
+    ], 
+    [
+        "¿Quiénes fueron los sans-culottes de la Revolución Francesa? ", 
+        "La principal masa social revolucionaria"
+    ], 
+    [
+        "¿Rectificar es sinónimo de?", 
+        "Corregir, arreglar, cambiar"
+    ], 
+    [
+        "¿Rowan Atkinson es famoso por el personaje llamado… ", 
+        "MrBean "
+    ], 
+    [
+        "¿Según el griego, qué significa el nombre “Mesopotamia”? ", 
+        "Entre Ríos"
+    ], 
+    [
+        "¿Según la obra literaria árabe Cuántos cuentos le contó Scherezada a su esposo?", 
+        "1001"
+    ], 
+    [
+        "¿Si padeces la enfermedad de Crohn o colitis ulcerosa, tienes una enfermedad…", 
+        "La orina "
+    ], 
+    [
+        "¿Una fábula es un cuento que finaliza con una enseñanza que se llama… ", 
+        "Moraleja"
+    ], 
+    [
+        "¿Una península es una parte del territorio…", 
+        "Rodeada de agua menos por una parte"
+    ], 
+    [
+        "¿vastago es sinónimo de?", 
+        "Hijo, descendencia"
+    ]
+]
+}
